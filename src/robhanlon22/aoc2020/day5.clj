@@ -3,7 +3,7 @@
     [clojure.java.io :as io]
     [clojure.spec.alpha :as s]
     [clojure.string :as str]
-    [clojure.test :as t :refer [is deftest]]
+    [clojure.test :as t :refer [deftest is]]
     [com.gfredericks.test.chuck.generators :as gen']))
 
 
@@ -22,11 +22,9 @@
    \R 1})
 
 
-(defn parse-seat-id
+(defn boarding-pass->seat-id
   [input]
-  (-> (map chars->bits input)
-      str/join
-      (Integer/parseInt 2)))
+  (Integer/parseInt (str/join (map chars->bits input)) 2))
 
 
 (s/def ::input
@@ -35,22 +33,18 @@
               #(gen'/string-from-regex (re-pattern input-patt))))
 
 
-(s/fdef parse-seat-id
+(s/fdef boarding-pass->seat-id
         :args (s/cat :input ::input)
         :ret  nat-int?
         :fn   #(s/int-in-range? 0
-                                (->> %
-                                     :args
-                                     :input
-                                     count
-                                     (Math/pow 2))
+                                (Math/pow 2 (count (:input (:args %))))
                                 (:ret %)))
 
 
 (defn solution
   [input]
   (->> (str/split input #"\n")
-       (map parse-seat-id)
+       (map boarding-pass->seat-id)
        sort
        (reduce
          (fn [l r]
@@ -60,7 +54,7 @@
 
 
 (deftest sample-input-test
-  (is (= 357 (parse-seat-id "FBFBBFFRLR")))
-  (is (= 567 (parse-seat-id "BFFFBBFRRR")))
-  (is (= 119 (parse-seat-id "FFFBBBFRRR")))
-  (is (= 820 (parse-seat-id "BBFFBBFRLL"))))
+  (is (= 357 (boarding-pass->seat-id "FBFBBFFRLR")))
+  (is (= 567 (boarding-pass->seat-id "BFFFBBFRRR")))
+  (is (= 119 (boarding-pass->seat-id "FFFBBBFRRR")))
+  (is (= 820 (boarding-pass->seat-id "BBFFBBFRLL"))))
