@@ -4,5 +4,6 @@
          orchestra/orchestra            {:mvn/version "2020.09.18-1"}
          expound/expound                {:mvn/version "0.8.6"}
          org.clojure/test.check         {:mvn/version "1.0.0"}
+         com.gfredericks/test.chuck     {:mvn/version "0.2.10"}
          lambdaisland/kaocha            {:mvn/version "1.0.732"}
          metosin/spec-tools             {:mvn/version "0.10.4"}}}
