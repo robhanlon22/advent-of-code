@@ -61,8 +61,9 @@
 
 (defmethod hgt "cm"
   [_]
-  (s/keys :req-un [:day4.cm/height
-                   :day4.cm/unit]))
+  (s/keys :req-un
+          [:day4.cm/height
+           :day4.cm/unit]))
 
 
 (s/def :day4.in/height
@@ -75,8 +76,9 @@
 
 (defmethod hgt "in"
   [_]
-  (s/keys :req-un [:day4.in/height
-                   :day4.in/unit]))
+  (s/keys :req-un
+          [:day4.in/height
+           :day4.in/unit]))
 
 
 (s/def ::height

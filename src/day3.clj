@@ -14,7 +14,9 @@
 
 (defn ^:private descend
   [rows dr dc]
-  (loop [r 0 c 0 s 0]
+  (loop [r 0
+         c 0
+         s 0]
     (if-let [v (and (< r (count rows)) (nth (nth rows r) c))]
       (let [i (if (= v \#) 1 0)]
         (recur (+ r dr) (+ c dc) (+ s i)))
