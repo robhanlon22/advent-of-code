@@ -1,4 +1,4 @@
-(ns robhanlon22.aoc2020.day4
+(ns day4
   (:require
     [clojure.java.io :as io]
     [clojure.spec.alpha :as s]
@@ -51,32 +51,32 @@
 (defmulti hgt :unit)
 
 
-(s/def :robhanlon22.aoc2020.day4.cm/height
+(s/def :day4.cm/height
   (s/int-in 150 (inc 193)))
 
 
-(s/def :robhanlon22.aoc2020.day4.cm/unit
+(s/def :day4.cm/unit
   #{"cm"})
 
 
 (defmethod hgt "cm"
   [_]
-  (s/keys :req-un [:robhanlon22.aoc2020.day4.cm/height
-                   :robhanlon22.aoc2020.day4.cm/unit]))
+  (s/keys :req-un [:day4.cm/height
+                   :day4.cm/unit]))
 
 
-(s/def :robhanlon22.aoc2020.day4.in/height
+(s/def :day4.in/height
   (s/int-in 59 (inc 76)))
 
 
-(s/def :robhanlon22.aoc2020.day4.in/unit
+(s/def :day4.in/unit
   #{"in"})
 
 
 (defmethod hgt "in"
   [_]
-  (s/keys :req-un [:robhanlon22.aoc2020.day4.in/height
-                   :robhanlon22.aoc2020.day4.in/unit]))
+  (s/keys :req-un [:day4.in/height
+                   :day4.in/unit]))
 
 
 (s/def ::height

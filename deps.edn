@@ -1,4 +1,4 @@
-{:paths ["src" "resources" "test"]
+{:paths ["src" "resources"]
  :deps  {org.clojure/clojure            {:mvn/version "1.10.1"}
          org.clojure/math.combinatorics {:mvn/version "0.1.6"}
          orchestra/orchestra            {:mvn/version "2020.09.18-1"}

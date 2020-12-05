@@ -1,4 +1,4 @@
-(ns robhanlon22.aoc2020.day3
+(ns day3
   (:require
     [clojure.java.io :as io]
     [clojure.string :as str]))

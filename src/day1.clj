@@ -1,4 +1,4 @@
-(ns robhanlon22.aoc2020.day1
+(ns day1
   (:require
     [clojure.math.combinatorics :as combo]))
 
