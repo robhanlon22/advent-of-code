@@ -30,6 +30,41 @@
       <artifactId>clojure</artifactId>
       <version>1.10.1</version>
     </dependency>
+    <dependency>
+      <groupId>lambdaisland</groupId>
+      <artifactId>kaocha</artifactId>
+      <version>1.0.732</version>
+    </dependency>
+    <dependency>
+      <groupId>expound</groupId>
+      <artifactId>expound</artifactId>
+      <version>0.8.6</version>
+    </dependency>
+    <dependency>
+      <groupId>metosin</groupId>
+      <artifactId>spec-tools</artifactId>
+      <version>0.10.4</version>
+    </dependency>
+    <dependency>
+      <groupId>com.gfredericks</groupId>
+      <artifactId>test.chuck</artifactId>
+      <version>0.2.10</version>
+    </dependency>
+    <dependency>
+      <groupId>orchestra</groupId>
+      <artifactId>orchestra</artifactId>
+      <version>2020.09.18-1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.clojure</groupId>
+      <artifactId>math.combinatorics</artifactId>
+      <version>0.1.6</version>
+    </dependency>
+    <dependency>
+      <groupId>org.clojure</groupId>
+      <artifactId>test.check</artifactId>
+      <version>1.0.0</version>
+    </dependency>
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
@@ -38,10 +73,6 @@
     <repository>
       <id>clojars</id>
       <url>https://repo.clojars.org/</url>
-    </repository>
-    <repository>
-      <id>sonatype</id>
-      <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
     </repository>
   </repositories>
   <distributionManagement>
