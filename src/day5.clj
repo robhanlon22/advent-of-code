@@ -8,7 +8,7 @@
 
 
 (def ^:private actual-input
-  (slurp (io/resource "day5-actual.txt")))
+  (str/trim (slurp (io/resource "day5-actual.txt"))))
 
 
 (def ^:private boarding-pass-pattern
@@ -16,7 +16,7 @@
 
 
 (def ^:private boarding-passes-pattern
-  (format "(%s\n)+" boarding-pass-pattern boarding-pass-pattern))
+  (format "(%s\n)*%s" boarding-pass-pattern boarding-pass-pattern))
 
 
 (def ^:private chars->bits
