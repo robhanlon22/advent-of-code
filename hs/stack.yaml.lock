@@ -3,7 +3,35 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages: []
+packages:
+- completed:
+    hackage: combinat-0.2.9.0@sha256:3daed23a2376f8d9903dc2c1c3758f1f2a0527178c81023080507e5f5ddf5b7a,5107
+    pantry-tree:
+      size: 4818
+      sha256: 7c14bb4cc6cb0b2d6f14ae8265241966fe6c2e07827d18acad8de1bdc1ba8540
+  original:
+    hackage: combinat-0.2.9.0
+- completed:
+    hackage: megaparsec-9.0.1@sha256:b0d7cd8843af2687b1a5a4add523836c782c400a375e4d7b6989a827b5605ac6,3117
+    pantry-tree:
+      size: 1447
+      sha256: 9ea2dcce3affdb192ad460d4e5311a5cd2ece070d331f1edae9302b9302988be
+  original:
+    hackage: megaparsec-9.0.1
+- completed:
+    hackage: parser-combinators-1.2.1@sha256:16c3490e007ec10b1255a2b36fb483d000156d555269107131241d9e0fa96412,1788
+    pantry-tree:
+      size: 725
+      sha256: 7b7cc6bb088f536691c4088ac6abe9f4dd0399feffc26bdb2cbec695f7259737
+  original:
+    hackage: parser-combinators-1.2.1
+- completed:
+    hackage: unordered-containers-0.2.13.0@sha256:6310c636f92ed4908fdd0de582b6be31c2851c7b5f2ec14e9f416eb94df7a078,4978
+    pantry-tree:
+      size: 1388
+      sha256: 0cdd70d603c621e2b184ff7baa232af8a88a01745710b975b97df63e92c700dd
+  original:
+    hackage: unordered-containers-0.2.13.0
 snapshots:
 - completed:
     size: 532835
