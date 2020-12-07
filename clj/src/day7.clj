@@ -4,8 +4,8 @@
     [clojure.string :as str]
     [instaparse.core :refer [defparser]]
     [loom.alg :as alg]
-    [loom.attr :as attr]
-    [loom.graph :as graph]))
+    [loom.graph :as graph]
+    [loom.io :as lio]))
 
 
 (def sample-input
@@ -14,10 +14,6 @@
 
 (def actual-input
   (slurp (io/resource "day7-actual.txt")))
-
-
-(def pattern
-  #"^(.*) bags contain(?: \d+ (.*) bags?,)*(?: \d+ (.*) bags?\.)$")
 
 
 (defparser parser
@@ -39,22 +35,24 @@ contain = 'contain'")
        (drop 1)))
 
 
+(defn ^:private add-rule
+  [g rule]
+  (let [[[_ node] & children] rule]
+    (reduce (fn [g' name']
+              (let [[_ [_ n] [_ node']] name']
+                (-> g'
+                    (graph/add-nodes node')
+                    (graph/add-edges [node node' (Integer/parseInt n)]))))
+            (graph/add-nodes g node)
+            children)))
+
+
 (defn ^:private build-graph
   [rules]
   (->> rules
        str/split-lines
        (map parse)
-       (reduce (fn [g rule]
-                 (let [[name & children] rule
-                       node              (last name)]
-                   (reduce (fn [g' name']
-                             (let [[_ [_ n] [_ node']] name']
-                               (-> g'
-                                   (graph/add-nodes node')
-                                   (graph/add-edges [node node' (Integer/parseInt n)]))))
-                           (graph/add-nodes g node)
-                           children)))
-               (graph/weighted-digraph))))
+       (reduce add-rule (graph/weighted-digraph))))
 
 
 (defn part1
@@ -67,20 +65,22 @@ contain = 'contain'")
          count)))
 
 
+(defn ^:private search
+  [graph node]
+  (let [edges (graph/out-edges graph node)]
+    (reduce (fn [acc edge]
+              (let [weight (graph/weight graph edge)
+                    node'  (graph/dest edge)
+                    bags   (search graph node')]
+                (+ acc weight (* weight bags))))
+            0
+            edges)))
+
+
 (defn part2
   [rules]
-  (let [graph  (build-graph rules)
-        search (fn search
-                 [node]
-                 (let [edges (graph/out-edges graph node)]
-                   (reduce (fn [acc edge]
-                             (let [weight (graph/weight graph edge)
-                                   node'  (graph/dest edge)
-                                   bags   (search node')]
-                               (+ acc weight (* weight bags))))
-                           0
-                           edges)))]
-    (search "shiny gold")))
+  (spit "g.dot" (lio/dot-str (build-graph rules)))
+  (search (build-graph rules) "shiny gold"))
 
 
 (def s

@@ -1,0 +1,2034 @@
+digraph "graph" {
+  "plaid gold" -> "posh lavender" ["label"="5"]
+  "plaid purple" -> "dull magenta" ["label"="5"]
+  "plaid purple" -> "light lavender" ["label"="5"]
+  "drab black" -> "vibrant chartreuse" ["label"="4"]
+  "drab black" -> "dim turquoise" ["label"="4"]
+  "drab brown" -> "wavy orange" ["label"="1"]
+  "drab brown" -> "dark cyan" ["label"="4"]
+  "drab brown" -> "drab white" ["label"="1"]
+  "clear violet" -> "drab salmon" ["label"="2"]
+  "clear violet" -> "pale gray" ["label"="4"]
+  "clear violet" -> "striped tan" ["label"="4"]
+  "clear violet" -> "mirrored blue" ["label"="5"]
+  "dotted beige" -> "wavy lavender" ["label"="1"]
+  "dotted beige" -> "dull orange" ["label"="5"]
+  "dotted beige" -> "dull lime" ["label"="4"]
+  "dotted beige" -> "dull blue" ["label"="3"]
+  "wavy plum" -> "light cyan" ["label"="5"]
+  "wavy plum" -> "drab turquoise" ["label"="2"]
+  "dull brown" -> "bright silver" ["label"="1"]
+  "dull brown" -> "muted tan" ["label"="4"]
+  "pale violet" -> "drab purple" ["label"="2"]
+  "wavy indigo" -> "mirrored olive" ["label"="4"]
+  "wavy indigo" -> "faded turquoise" ["label"="1"]
+  "wavy indigo" -> "vibrant coral" ["label"="1"]
+  "wavy indigo" -> "bright gray" ["label"="4"]
+  "drab blue" -> "bright coral" ["label"="3"]
+  "drab blue" -> "dim coral" ["label"="3"]
+  "dotted brown" -> "plaid turquoise" ["label"="1"]
+  "dotted brown" -> "dull plum" ["label"="1"]
+  "shiny white" -> "posh red" ["label"="1"]
+  "shiny white" -> "dotted red" ["label"="3"]
+  "dark gold" -> "pale plum" ["label"="3"]
+  "dark gold" -> "mirrored olive" ["label"="3"]
+  "dull maroon" -> "dull bronze" ["label"="4"]
+  "dull maroon" -> "mirrored brown" ["label"="1"]
+  "dull maroon" -> "wavy white" ["label"="5"]
+  "dull maroon" -> "clear teal" ["label"="5"]
+  "wavy turquoise" -> "drab magenta" ["label"="1"]
+  "posh silver" -> "light olive" ["label"="5"]
+  "posh silver" -> "bright white" ["label"="5"]
+  "posh silver" -> "light violet" ["label"="5"]
+  "posh silver" -> "faded orange" ["label"="4"]
+  "pale turquoise" -> "faded lime" ["label"="2"]
+  "bright violet" -> "faded lime" ["label"="1"]
+  "bright violet" -> "dark chartreuse" ["label"="5"]
+  "bright violet" -> "shiny black" ["label"="1"]
+  "bright violet" -> "vibrant yellow" ["label"="3"]
+  "striped white" -> "dim cyan" ["label"="1"]
+  "drab fuchsia" -> "pale black" ["label"="1"]
+  "mirrored cyan" -> "muted chartreuse" ["label"="5"]
+  "mirrored cyan" -> "dim cyan" ["label"="4"]
+  "mirrored cyan" -> "posh fuchsia" ["label"="5"]
+  "muted yellow" -> "drab purple" ["label"="4"]
+  "muted yellow" -> "striped olive" ["label"="3"]
+  "vibrant olive" -> "pale white" ["label"="2"]
+  "vibrant olive" -> "dull coral" ["label"="2"]
+  "vibrant olive" -> "mirrored magenta" ["label"="1"]
+  "vibrant olive" -> "clear crimson" ["label"="2"]
+  "shiny purple" -> "pale magenta" ["label"="2"]
+  "shiny purple" -> "shiny fuchsia" ["label"="2"]
+  "dark black" -> "bright coral" ["label"="4"]
+  "striped olive" -> "plaid chartreuse" ["label"="1"]
+  "striped olive" -> "dull indigo" ["label"="1"]
+  "striped olive" -> "shiny salmon" ["label"="1"]
+  "striped olive" -> "shiny crimson" ["label"="1"]
+  "dull purple" -> "striped tan" ["label"="1"]
+  "dull purple" -> "vibrant tomato" ["label"="2"]
+  "dull purple" -> "dim brown" ["label"="2"]
+  "dull purple" -> "shiny fuchsia" ["label"="2"]
+  "dim aqua" -> "dim cyan" ["label"="1"]
+  "dark beige" -> "shiny white" ["label"="4"]
+  "dark beige" -> "wavy chartreuse" ["label"="3"]
+  "dark beige" -> "dotted red" ["label"="1"]
+  "dark beige" -> "plaid crimson" ["label"="5"]
+  "muted lime" -> "dark yellow" ["label"="4"]
+  "muted lime" -> "vibrant blue" ["label"="5"]
+  "shiny green" -> "posh teal" ["label"="5"]
+  "shiny green" -> "dark brown" ["label"="2"]
+  "shiny green" -> "faded turquoise" ["label"="1"]
+  "plaid olive" -> "mirrored gray" ["label"="2"]
+  "faded lime" -> "drab turquoise" ["label"="5"]
+  "faded lime" -> "pale lavender" ["label"="4"]
+  "bright cyan" -> "muted tomato" ["label"="4"]
+  "bright cyan" -> "drab turquoise" ["label"="1"]
+  "bright cyan" -> "bright yellow" ["label"="4"]
+  "light red" -> "dull white" ["label"="2"]
+  "light red" -> "drab fuchsia" ["label"="4"]
+  "dim gray" -> "dull indigo" ["label"="3"]
+  "pale crimson" -> "striped tan" ["label"="1"]
+  "pale crimson" -> "dotted red" ["label"="4"]
+  "pale crimson" -> "dotted fuchsia" ["label"="3"]
+  "pale crimson" -> "dull brown" ["label"="5"]
+  "mirrored magenta" -> "mirrored gray" ["label"="3"]
+  "mirrored magenta" -> "plaid beige" ["label"="2"]
+  "mirrored magenta" -> "dull brown" ["label"="4"]
+  "mirrored magenta" -> "pale plum" ["label"="3"]
+  "striped green" -> "dim white" ["label"="2"]
+  "mirrored white" -> "muted gray" ["label"="3"]
+  "mirrored white" -> "dotted beige" ["label"="4"]
+  "mirrored white" -> "dotted salmon" ["label"="5"]
+  "mirrored white" -> "muted gold" ["label"="5"]
+  "posh purple" -> "light fuchsia" ["label"="3"]
+  "posh purple" -> "pale black" ["label"="5"]
+  "posh purple" -> "wavy orange" ["label"="5"]
+  "posh purple" -> "drab blue" ["label"="3"]
+  "drab beige" -> "muted magenta" ["label"="4"]
+  "drab beige" -> "bright plum" ["label"="2"]
+  "drab beige" -> "pale beige" ["label"="3"]
+  "dotted tan" -> "dark yellow" ["label"="3"]
+  "dotted tan" -> "posh silver" ["label"="4"]
+  "dotted tan" -> "dark beige" ["label"="3"]
+  "clear brown" -> "dark olive" ["label"="4"]
+  "clear brown" -> "striped yellow" ["label"="2"]
+  "clear brown" -> "dotted red" ["label"="4"]
+  "clear brown" -> "dotted plum" ["label"="5"]
+  "clear green" -> "pale beige" ["label"="2"]
+  "drab chartreuse" -> "shiny white" ["label"="1"]
+  "shiny lime" -> "posh black" ["label"="1"]
+  "vibrant beige" -> "striped crimson" ["label"="4"]
+  "vibrant silver" -> "mirrored yellow" ["label"="5"]
+  "vibrant silver" -> "dull indigo" ["label"="5"]
+  "vibrant silver" -> "faded cyan" ["label"="3"]
+  "vibrant silver" -> "faded turquoise" ["label"="4"]
+  "bright black" -> "striped maroon" ["label"="2"]
+  "dim lime" -> "bright crimson" ["label"="5"]
+  "dim lime" -> "dark green" ["label"="3"]
+  "dim lime" -> "vibrant green" ["label"="2"]
+  "dim lime" -> "pale maroon" ["label"="3"]
+  "vibrant indigo" -> "dull plum" ["label"="5"]
+  "vibrant indigo" -> "dull maroon" ["label"="1"]
+  "vibrant indigo" -> "striped white" ["label"="2"]
+  "light green" -> "shiny plum" ["label"="5"]
+  "light green" -> "pale lavender" ["label"="4"]
+  "light green" -> "faded gold" ["label"="5"]
+  "posh plum" -> "dotted gold" ["label"="4"]
+  "posh plum" -> "dotted plum" ["label"="4"]
+  "posh plum" -> "vibrant gold" ["label"="2"]
+  "clear magenta" -> "dull indigo" ["label"="2"]
+  "clear magenta" -> "vibrant green" ["label"="5"]
+  "dull chartreuse" -> "muted gray" ["label"="3"]
+  "vibrant cyan" -> "dotted gold" ["label"="1"]
+  "vibrant cyan" -> "mirrored indigo" ["label"="1"]
+  "vibrant violet" -> "posh teal" ["label"="1"]
+  "vibrant violet" -> "dull gray" ["label"="4"]
+  "vibrant violet" -> "dim aqua" ["label"="5"]
+  "vibrant violet" -> "striped yellow" ["label"="5"]
+  "shiny crimson" -> "dull indigo" ["label"="2"]
+  "shiny crimson" -> "bright cyan" ["label"="1"]
+  "dotted orange" -> "dim magenta" ["label"="4"]
+  "dotted orange" -> "faded white" ["label"="1"]
+  "dotted orange" -> "muted tan" ["label"="1"]
+  "dark brown" -> "clear fuchsia" ["label"="2"]
+  "dark brown" -> "dull bronze" ["label"="2"]
+  "dark brown" -> "striped aqua" ["label"="3"]
+  "dark brown" -> "shiny gold" ["label"="1"]
+  "dim crimson" -> "bright yellow" ["label"="3"]
+  "dim crimson" -> "dull gray" ["label"="1"]
+  "faded silver" -> "striped teal" ["label"="3"]
+  "faded silver" -> "mirrored indigo" ["label"="5"]
+  "clear coral" -> "faded turquoise" ["label"="2"]
+  "clear coral" -> "shiny cyan" ["label"="2"]
+  "clear coral" -> "dull red" ["label"="4"]
+  "shiny red" -> "pale turquoise" ["label"="1"]
+  "shiny red" -> "shiny beige" ["label"="5"]
+  "vibrant yellow" -> "dark chartreuse" ["label"="5"]
+  "vibrant yellow" -> "dull indigo" ["label"="3"]
+  "vibrant yellow" -> "bright tan" ["label"="1"]
+  "bright chartreuse" -> "dim salmon" ["label"="5"]
+  "bright chartreuse" -> "shiny salmon" ["label"="5"]
+  "bright chartreuse" -> "bright plum" ["label"="4"]
+  "bright chartreuse" -> "dark lavender" ["label"="2"]
+  "dotted fuchsia" -> "muted blue" ["label"="5"]
+  "dotted fuchsia" -> "pale brown" ["label"="1"]
+  "dotted fuchsia" -> "shiny salmon" ["label"="2"]
+  "dotted green" -> "dark cyan" ["label"="3"]
+  "dull teal" -> "shiny teal" ["label"="4"]
+  "dark magenta" -> "shiny teal" ["label"="5"]
+  "dark magenta" -> "pale purple" ["label"="4"]
+  "pale chartreuse" -> "dotted brown" ["label"="4"]
+  "pale chartreuse" -> "dark black" ["label"="1"]
+  "pale chartreuse" -> "mirrored plum" ["label"="3"]
+  "pale chartreuse" -> "faded black" ["label"="1"]
+  "pale beige" -> "wavy white" ["label"="1"]
+  "pale beige" -> "dotted orange" ["label"="1"]
+  "pale beige" -> "dim gray" ["label"="4"]
+  "mirrored purple" -> "muted beige" ["label"="3"]
+  "mirrored purple" -> "faded blue" ["label"="4"]
+  "dull violet" -> "posh black" ["label"="5"]
+  "dull violet" -> "shiny tomato" ["label"="4"]
+  "shiny yellow" -> "clear gold" ["label"="1"]
+  "clear tomato" -> "shiny bronze" ["label"="4"]
+  "bright silver" -> "shiny black" ["label"="2"]
+  "bright silver" -> "faded gold" ["label"="3"]
+  "bright silver" -> "bright yellow" ["label"="5"]
+  "striped fuchsia" -> "light lavender" ["label"="4"]
+  "striped fuchsia" -> "dull gray" ["label"="4"]
+  "striped fuchsia" -> "wavy cyan" ["label"="5"]
+  "striped fuchsia" -> "striped orange" ["label"="2"]
+  "light fuchsia" -> "mirrored turquoise" ["label"="2"]
+  "light fuchsia" -> "striped lime" ["label"="4"]
+  "light fuchsia" -> "faded white" ["label"="4"]
+  "bright magenta" -> "dull aqua" ["label"="5"]
+  "bright magenta" -> "dull green" ["label"="3"]
+  "bright magenta" -> "shiny turquoise" ["label"="2"]
+  "striped gold" -> "wavy white" ["label"="1"]
+  "striped gold" -> "posh tomato" ["label"="3"]
+  "striped gold" -> "light magenta" ["label"="4"]
+  "striped tomato" -> "dull gray" ["label"="4"]
+  "striped tomato" -> "vibrant plum" ["label"="1"]
+  "striped tomato" -> "mirrored coral" ["label"="3"]
+  "plaid chartreuse" -> "bright yellow" ["label"="2"]
+  "plaid chartreuse" -> "faded gold" ["label"="2"]
+  "plaid chartreuse" -> "pale lavender" ["label"="1"]
+  "drab white" -> "plaid yellow" ["label"="1"]
+  "drab white" -> "shiny green" ["label"="2"]
+  "drab white" -> "posh beige" ["label"="5"]
+  "drab white" -> "plaid tan" ["label"="5"]
+  "muted teal" -> "wavy violet" ["label"="2"]
+  "plaid violet" -> "bright lime" ["label"="4"]
+  "plaid violet" -> "mirrored olive" ["label"="2"]
+  "plaid violet" -> "faded blue" ["label"="4"]
+  "dim tomato" -> "drab chartreuse" ["label"="3"]
+  "dim tomato" -> "striped coral" ["label"="1"]
+  "dim tomato" -> "pale tan" ["label"="3"]
+  "clear plum" -> "pale lavender" ["label"="4"]
+  "faded yellow" -> "faded brown" ["label"="1"]
+  "faded yellow" -> "clear tomato" ["label"="3"]
+  "plaid maroon" -> "pale coral" ["label"="1"]
+  "dim olive" -> "mirrored yellow" ["label"="2"]
+  "dim olive" -> "muted magenta" ["label"="2"]
+  "dim olive" -> "drab coral" ["label"="3"]
+  "dull tomato" -> "clear red" ["label"="1"]
+  "dull tomato" -> "dull green" ["label"="1"]
+  "dull tomato" -> "dark blue" ["label"="1"]
+  "dull tomato" -> "striped maroon" ["label"="1"]
+  "mirrored bronze" -> "posh turquoise" ["label"="3"]
+  "plaid red" -> "bright cyan" ["label"="2"]
+  "plaid red" -> "pale lavender" ["label"="5"]
+  "plaid red" -> "dark chartreuse" ["label"="3"]
+  "plaid red" -> "dotted plum" ["label"="1"]
+  "plaid coral" -> "dark olive" ["label"="2"]
+  "plaid coral" -> "pale aqua" ["label"="1"]
+  "plaid coral" -> "shiny bronze" ["label"="5"]
+  "faded violet" -> "dull brown" ["label"="1"]
+  "faded violet" -> "mirrored brown" ["label"="1"]
+  "faded turquoise" -> "shiny coral" ["label"="2"]
+  "clear tan" -> "posh tomato" ["label"="2"]
+  "clear tan" -> "bright tan" ["label"="4"]
+  "clear tan" -> "mirrored gray" ["label"="1"]
+  "shiny indigo" -> "wavy olive" ["label"="3"]
+  "shiny indigo" -> "dim blue" ["label"="3"]
+  "shiny indigo" -> "faded gold" ["label"="2"]
+  "shiny indigo" -> "clear fuchsia" ["label"="4"]
+  "bright orange" -> "shiny chartreuse" ["label"="2"]
+  "wavy green" -> "wavy turquoise" ["label"="1"]
+  "clear maroon" -> "muted lavender" ["label"="2"]
+  "wavy coral" -> "posh maroon" ["label"="4"]
+  "wavy coral" -> "dim white" ["label"="5"]
+  "wavy coral" -> "pale indigo" ["label"="5"]
+  "wavy coral" -> "dotted maroon" ["label"="5"]
+  "pale yellow" -> "bright green" ["label"="2"]
+  "pale yellow" -> "dull beige" ["label"="5"]
+  "pale yellow" -> "light coral" ["label"="3"]
+  "pale yellow" -> "dull red" ["label"="3"]
+  "vibrant green" -> "muted tan" ["label"="4"]
+  "vibrant green" -> "light lavender" ["label"="3"]
+  "vibrant green" -> "light magenta" ["label"="5"]
+  "mirrored orange" -> "striped maroon" ["label"="3"]
+  "mirrored orange" -> "dull bronze" ["label"="1"]
+  "mirrored orange" -> "pale aqua" ["label"="2"]
+  "light cyan" -> "mirrored turquoise" ["label"="1"]
+  "light cyan" -> "dim gray" ["label"="1"]
+  "light cyan" -> "faded white" ["label"="5"]
+  "muted beige" -> "drab chartreuse" ["label"="4"]
+  "clear olive" -> "posh yellow" ["label"="4"]
+  "clear olive" -> "dotted olive" ["label"="4"]
+  "clear olive" -> "faded chartreuse" ["label"="2"]
+  "dim red" -> "muted indigo" ["label"="2"]
+  "dim red" -> "shiny aqua" ["label"="1"]
+  "dim red" -> "dim gray" ["label"="1"]
+  "vibrant maroon" -> "clear fuchsia" ["label"="1"]
+  "vibrant maroon" -> "wavy purple" ["label"="5"]
+  "vibrant maroon" -> "dull gold" ["label"="2"]
+  "dull gold" -> "plaid tan" ["label"="5"]
+  "dull gold" -> "light bronze" ["label"="2"]
+  "dull gold" -> "striped tan" ["label"="1"]
+  "wavy violet" -> "bright indigo" ["label"="4"]
+  "posh gray" -> "wavy salmon" ["label"="1"]
+  "dim indigo" -> "dim coral" ["label"="4"]
+  "dim indigo" -> "wavy indigo" ["label"="3"]
+  "dim indigo" -> "vibrant red" ["label"="3"]
+  "dim indigo" -> "wavy orange" ["label"="3"]
+  "striped lavender" -> "dotted chartreuse" ["label"="3"]
+  "dull white" -> "posh teal" ["label"="4"]
+  "dull white" -> "mirrored turquoise" ["label"="4"]
+  "dull white" -> "muted purple" ["label"="1"]
+  "pale olive" -> "posh yellow" ["label"="4"]
+  "pale olive" -> "pale plum" ["label"="4"]
+  "posh gold" -> "bright green" ["label"="1"]
+  "posh gold" -> "dim cyan" ["label"="3"]
+  "vibrant chartreuse" -> "pale brown" ["label"="5"]
+  "dotted black" -> "muted aqua" ["label"="5"]
+  "dotted black" -> "wavy lime" ["label"="1"]
+  "dotted black" -> "bright lime" ["label"="2"]
+  "muted bronze" -> "dull bronze" ["label"="2"]
+  "muted bronze" -> "muted black" ["label"="2"]
+  "dim beige" -> "dim teal" ["label"="1"]
+  "dim beige" -> "muted salmon" ["label"="1"]
+  "mirrored tomato" -> "posh purple" ["label"="1"]
+  "mirrored tomato" -> "striped aqua" ["label"="3"]
+  "striped magenta" -> "faded white" ["label"="3"]
+  "striped magenta" -> "vibrant bronze" ["label"="1"]
+  "dotted maroon" -> "faded cyan" ["label"="2"]
+  "dotted maroon" -> "muted tomato" ["label"="3"]
+  "dotted maroon" -> "shiny aqua" ["label"="1"]
+  "dotted maroon" -> "bright orange" ["label"="3"]
+  "muted tomato" -> "faded gold" ["label"="1"]
+  "muted tomato" -> "bright yellow" ["label"="2"]
+  "muted tomato" -> "dotted plum" ["label"="3"]
+  "dotted gray" -> "mirrored turquoise" ["label"="4"]
+  "dotted gray" -> "light lavender" ["label"="5"]
+  "dotted gray" -> "vibrant yellow" ["label"="1"]
+  "dotted gray" -> "dull bronze" ["label"="4"]
+  "dark fuchsia" -> "mirrored indigo" ["label"="3"]
+  "drab bronze" -> "dim indigo" ["label"="3"]
+  "drab bronze" -> "dim magenta" ["label"="1"]
+  "drab bronze" -> "bright gray" ["label"="1"]
+  "dull black" -> "vibrant coral" ["label"="5"]
+  "dull black" -> "clear orange" ["label"="2"]
+  "dull turquoise" -> "dull crimson" ["label"="4"]
+  "posh white" -> "dim teal" ["label"="4"]
+  "posh white" -> "light brown" ["label"="4"]
+  "bright coral" -> "pale lavender" ["label"="1"]
+  "bright coral" -> "mirrored olive" ["label"="3"]
+  "bright coral" -> "muted tan" ["label"="3"]
+  "muted salmon" -> "bright orange" ["label"="2"]
+  "muted salmon" -> "dotted plum" ["label"="3"]
+  "muted salmon" -> "light magenta" ["label"="3"]
+  "dark tomato" -> "dull magenta" ["label"="5"]
+  "dark tomato" -> "faded aqua" ["label"="2"]
+  "dark tomato" -> "vibrant lime" ["label"="3"]
+  "dark tomato" -> "drab silver" ["label"="3"]
+  "drab maroon" -> "clear olive" ["label"="3"]
+  "drab maroon" -> "dotted blue" ["label"="4"]
+  "drab maroon" -> "dim magenta" ["label"="4"]
+  "posh brown" -> "muted white" ["label"="1"]
+  "posh brown" -> "striped teal" ["label"="2"]
+  "posh brown" -> "faded chartreuse" ["label"="1"]
+  "vibrant teal" -> "striped olive" ["label"="5"]
+  "vibrant teal" -> "pale olive" ["label"="1"]
+  "light beige" -> "pale aqua" ["label"="3"]
+  "dull lavender" -> "clear fuchsia" ["label"="2"]
+  "dull lavender" -> "pale silver" ["label"="5"]
+  "dull lavender" -> "dim salmon" ["label"="5"]
+  "dull lavender" -> "muted salmon" ["label"="4"]
+  "dark aqua" -> "light bronze" ["label"="5"]
+  "dark aqua" -> "wavy turquoise" ["label"="1"]
+  "dark cyan" -> "muted indigo" ["label"="4"]
+  "dark cyan" -> "shiny crimson" ["label"="4"]
+  "dark cyan" -> "drab turquoise" ["label"="2"]
+  "pale silver" -> "vibrant bronze" ["label"="4"]
+  "pale silver" -> "faded purple" ["label"="4"]
+  "pale silver" -> "shiny green" ["label"="1"]
+  "pale silver" -> "plaid lavender" ["label"="1"]
+  "striped brown" -> "wavy turquoise" ["label"="4"]
+  "clear silver" -> "dull lime" ["label"="1"]
+  "clear silver" -> "dim plum" ["label"="2"]
+  "clear silver" -> "wavy maroon" ["label"="5"]
+  "clear silver" -> "striped cyan" ["label"="3"]
+  "mirrored gold" -> "muted purple" ["label"="3"]
+  "mirrored gold" -> "dark indigo" ["label"="5"]
+  "mirrored gold" -> "dotted brown" ["label"="5"]
+  "mirrored gold" -> "mirrored olive" ["label"="1"]
+  "shiny salmon" -> "dark chartreuse" ["label"="3"]
+  "shiny salmon" -> "bright yellow" ["label"="4"]
+  "shiny salmon" -> "dark gold" ["label"="5"]
+  "shiny salmon" -> "muted tomato" ["label"="2"]
+  "drab cyan" -> "dotted plum" ["label"="4"]
+  "drab cyan" -> "dim red" ["label"="5"]
+  "bright fuchsia" -> "dark cyan" ["label"="1"]
+  "dim blue" -> "posh yellow" ["label"="5"]
+  "dim blue" -> "dim maroon" ["label"="5"]
+  "drab crimson" -> "dotted purple" ["label"="2"]
+  "drab crimson" -> "plaid purple" ["label"="4"]
+  "drab crimson" -> "vibrant black" ["label"="4"]
+  "posh red" -> "faded turquoise" ["label"="4"]
+  "posh red" -> "light violet" ["label"="2"]
+  "light lavender" -> "dim maroon" ["label"="2"]
+  "light lavender" -> "muted tomato" ["label"="4"]
+  "light lavender" -> "dull plum" ["label"="4"]
+  "dull crimson" -> "mirrored tan" ["label"="1"]
+  "dull crimson" -> "dotted crimson" ["label"="4"]
+  "dull crimson" -> "vibrant indigo" ["label"="5"]
+  "vibrant purple" -> "dotted turquoise" ["label"="5"]
+  "dark teal" -> "muted indigo" ["label"="3"]
+  "dark teal" -> "dark gold" ["label"="5"]
+  "dark teal" -> "dull green" ["label"="3"]
+  "dark teal" -> "plaid tan" ["label"="2"]
+  "shiny cyan" -> "vibrant yellow" ["label"="4"]
+  "striped violet" -> "dotted orange" ["label"="1"]
+  "striped violet" -> "striped red" ["label"="5"]
+  "striped violet" -> "dull lime" ["label"="5"]
+  "plaid black" -> "dull fuchsia" ["label"="3"]
+  "dark orange" -> "faded bronze" ["label"="3"]
+  "faded coral" -> "dotted green" ["label"="4"]
+  "faded coral" -> "dim violet" ["label"="2"]
+  "faded coral" -> "striped magenta" ["label"="3"]
+  "pale bronze" -> "dotted bronze" ["label"="2"]
+  "pale bronze" -> "dim purple" ["label"="5"]
+  "pale bronze" -> "plaid red" ["label"="1"]
+  "faded bronze" -> "mirrored olive" ["label"="5"]
+  "faded bronze" -> "dark green" ["label"="2"]
+  "shiny orange" -> "pale tomato" ["label"="2"]
+  "shiny orange" -> "pale teal" ["label"="1"]
+  "drab aqua" -> "faded black" ["label"="1"]
+  "drab aqua" -> "clear lavender" ["label"="4"]
+  "faded purple" -> "dull aqua" ["label"="4"]
+  "faded purple" -> "drab turquoise" ["label"="2"]
+  "faded purple" -> "wavy crimson" ["label"="5"]
+  "faded purple" -> "faded turquoise" ["label"="2"]
+  "clear indigo" -> "dark magenta" ["label"="4"]
+  "clear indigo" -> "shiny brown" ["label"="2"]
+  "light silver" -> "drab orange" ["label"="3"]
+  "light silver" -> "light plum" ["label"="5"]
+  "light silver" -> "dotted olive" ["label"="2"]
+  "wavy lavender" -> "drab purple" ["label"="2"]
+  "wavy lavender" -> "light brown" ["label"="2"]
+  "wavy lavender" -> "wavy tomato" ["label"="2"]
+  "wavy lavender" -> "mirrored plum" ["label"="1"]
+  "drab olive" -> "shiny coral" ["label"="2"]
+  "mirrored yellow" -> "shiny fuchsia" ["label"="5"]
+  "mirrored yellow" -> "bright tan" ["label"="3"]
+  "mirrored yellow" -> "drab fuchsia" ["label"="4"]
+  "striped red" -> "mirrored lime" ["label"="5"]
+  "striped red" -> "dull magenta" ["label"="4"]
+  "striped red" -> "vibrant yellow" ["label"="2"]
+  "dotted blue" -> "wavy green" ["label"="5"]
+  "dotted blue" -> "pale beige" ["label"="3"]
+  "striped coral" -> "dull blue" ["label"="1"]
+  "striped coral" -> "faded lime" ["label"="5"]
+  "striped coral" -> "vibrant coral" ["label"="4"]
+  "light turquoise" -> "posh red" ["label"="5"]
+  "light turquoise" -> "dim chartreuse" ["label"="1"]
+  "light turquoise" -> "vibrant beige" ["label"="3"]
+  "light turquoise" -> "mirrored lavender" ["label"="2"]
+  "wavy magenta" -> "posh brown" ["label"="3"]
+  "mirrored tan" -> "dark salmon" ["label"="3"]
+  "mirrored tan" -> "vibrant red" ["label"="1"]
+  "mirrored tan" -> "dull gray" ["label"="1"]
+  "dark yellow" -> "shiny turquoise" ["label"="2"]
+  "dotted salmon" -> "muted tan" ["label"="2"]
+  "dotted salmon" -> "light bronze" ["label"="4"]
+  "clear black" -> "pale red" ["label"="2"]
+  "clear black" -> "plaid black" ["label"="3"]
+  "clear turquoise" -> "light orange" ["label"="4"]
+  "clear turquoise" -> "faded black" ["label"="3"]
+  "clear turquoise" -> "mirrored lavender" ["label"="5"]
+  "clear turquoise" -> "posh white" ["label"="5"]
+  "faded fuchsia" -> "muted blue" ["label"="2"]
+  "faded fuchsia" -> "mirrored blue" ["label"="1"]
+  "faded fuchsia" -> "dotted green" ["label"="2"]
+  "faded fuchsia" -> "mirrored olive" ["label"="5"]
+  "bright salmon" -> "bright aqua" ["label"="2"]
+  "mirrored black" -> "dim white" ["label"="1"]
+  "mirrored black" -> "clear gold" ["label"="1"]
+  "posh lime" -> "bright crimson" ["label"="3"]
+  "posh lime" -> "posh beige" ["label"="4"]
+  "posh lime" -> "bright cyan" ["label"="1"]
+  "shiny teal" -> "bright coral" ["label"="1"]
+  "shiny teal" -> "plaid aqua" ["label"="2"]
+  "shiny teal" -> "vibrant yellow" ["label"="2"]
+  "plaid brown" -> "dark bronze" ["label"="2"]
+  "dotted white" -> "pale black" ["label"="3"]
+  "dotted white" -> "drab black" ["label"="2"]
+  "dotted white" -> "faded fuchsia" ["label"="5"]
+  "dotted white" -> "plaid black" ["label"="1"]
+  "bright white" -> "drab chartreuse" ["label"="5"]
+  "dim black" -> "dim aqua" ["label"="4"]
+  "dim black" -> "pale blue" ["label"="5"]
+  "bright gold" -> "shiny crimson" ["label"="1"]
+  "bright gold" -> "wavy red" ["label"="4"]
+  "dull red" -> "posh yellow" ["label"="3"]
+  "dull red" -> "pale plum" ["label"="3"]
+  "muted gray" -> "light bronze" ["label"="4"]
+  "vibrant fuchsia" -> "striped tan" ["label"="4"]
+  "vibrant fuchsia" -> "dark black" ["label"="1"]
+  "vibrant fuchsia" -> "plaid olive" ["label"="4"]
+  "vibrant fuchsia" -> "wavy aqua" ["label"="2"]
+  "posh aqua" -> "dim white" ["label"="1"]
+  "posh aqua" -> "clear tomato" ["label"="2"]
+  "posh aqua" -> "pale maroon" ["label"="2"]
+  "posh salmon" -> "dull tomato" ["label"="4"]
+  "posh salmon" -> "drab black" ["label"="3"]
+  "posh salmon" -> "mirrored chartreuse" ["label"="5"]
+  "posh salmon" -> "shiny blue" ["label"="4"]
+  "drab salmon" -> "bright lavender" ["label"="3"]
+  "drab salmon" -> "bright violet" ["label"="4"]
+  "drab salmon" -> "mirrored brown" ["label"="1"]
+  "drab salmon" -> "shiny gold" ["label"="4"]
+  "vibrant blue" -> "wavy orange" ["label"="4"]
+  "vibrant blue" -> "drab silver" ["label"="4"]
+  "vibrant blue" -> "muted tan" ["label"="2"]
+  "muted olive" -> "dull green" ["label"="1"]
+  "muted olive" -> "bright violet" ["label"="3"]
+  "muted olive" -> "dark yellow" ["label"="1"]
+  "posh tan" -> "striped lavender" ["label"="5"]
+  "posh tan" -> "posh tomato" ["label"="4"]
+  "dim salmon" -> "dim blue" ["label"="1"]
+  "dim salmon" -> "dotted indigo" ["label"="3"]
+  "dim salmon" -> "pale crimson" ["label"="4"]
+  "dim salmon" -> "drab blue" ["label"="3"]
+  "mirrored silver" -> "vibrant maroon" ["label"="2"]
+  "mirrored silver" -> "plaid chartreuse" ["label"="5"]
+  "mirrored silver" -> "vibrant plum" ["label"="4"]
+  "mirrored silver" -> "faded white" ["label"="5"]
+  "drab orange" -> "mirrored turquoise" ["label"="2"]
+  "drab orange" -> "plaid tomato" ["label"="5"]
+  "drab orange" -> "dotted blue" ["label"="3"]
+  "drab orange" -> "wavy red" ["label"="5"]
+  "shiny gold" -> "pale brown" ["label"="2"]
+  "shiny gold" -> "dotted chartreuse" ["label"="2"]
+  "shiny gold" -> "vibrant gold" ["label"="1"]
+  "shiny gold" -> "dull magenta" ["label"="4"]
+  "drab teal" -> "faded chartreuse" ["label"="5"]
+  "drab teal" -> "faded silver" ["label"="2"]
+  "dim coral" -> "muted crimson" ["label"="4"]
+  "dim coral" -> "mirrored plum" ["label"="1"]
+  "dull aqua" -> "dark yellow" ["label"="3"]
+  "dotted turquoise" -> "muted silver" ["label"="5"]
+  "wavy tan" -> "mirrored plum" ["label"="1"]
+  "dim chartreuse" -> "pale white" ["label"="3"]
+  "dim chartreuse" -> "faded white" ["label"="5"]
+  "dim chartreuse" -> "mirrored magenta" ["label"="3"]
+  "dim chartreuse" -> "faded black" ["label"="5"]
+  "clear teal" -> "muted tomato" ["label"="2"]
+  "clear teal" -> "faded turquoise" ["label"="4"]
+  "posh indigo" -> "faded chartreuse" ["label"="5"]
+  "posh indigo" -> "dark green" ["label"="5"]
+  "posh indigo" -> "dark blue" ["label"="5"]
+  "dotted magenta" -> "plaid blue" ["label"="4"]
+  "dotted magenta" -> "plaid turquoise" ["label"="1"]
+  "dotted magenta" -> "striped silver" ["label"="5"]
+  "dull tan" -> "plaid crimson" ["label"="1"]
+  "light black" -> "mirrored chartreuse" ["label"="1"]
+  "light black" -> "muted yellow" ["label"="3"]
+  "light black" -> "muted tan" ["label"="4"]
+  "shiny beige" -> "plaid silver" ["label"="3"]
+  "shiny beige" -> "faded chartreuse" ["label"="2"]
+  "shiny beige" -> "vibrant lavender" ["label"="2"]
+  "shiny beige" -> "wavy olive" ["label"="2"]
+  "shiny olive" -> "wavy chartreuse" ["label"="2"]
+  "shiny olive" -> "dim chartreuse" ["label"="5"]
+  "shiny olive" -> "pale gold" ["label"="4"]
+  "shiny olive" -> "posh crimson" ["label"="1"]
+  "faded brown" -> "muted teal" ["label"="5"]
+  "dark indigo" -> "bright brown" ["label"="3"]
+  "dark indigo" -> "drab white" ["label"="3"]
+  "dark indigo" -> "muted purple" ["label"="2"]
+  "dark indigo" -> "plaid silver" ["label"="2"]
+  "light gray" -> "wavy teal" ["label"="3"]
+  "light gray" -> "clear brown" ["label"="1"]
+  "light gray" -> "striped tan" ["label"="5"]
+  "light gray" -> "muted magenta" ["label"="3"]
+  "light coral" -> "bright coral" ["label"="3"]
+  "light coral" -> "pale teal" ["label"="5"]
+  "light coral" -> "dull red" ["label"="5"]
+  "light coral" -> "mirrored tomato" ["label"="3"]
+  "dim cyan" -> "plaid red" ["label"="4"]
+  "dim cyan" -> "bright silver" ["label"="4"]
+  "dim cyan" -> "vibrant gold" ["label"="5"]
+  "drab indigo" -> "dull aqua" ["label"="5"]
+  "vibrant lime" -> "dull maroon" ["label"="1"]
+  "vibrant lime" -> "light purple" ["label"="4"]
+  "vibrant lime" -> "dull orange" ["label"="5"]
+  "vibrant lime" -> "dull purple" ["label"="1"]
+  "clear gray" -> "pale purple" ["label"="2"]
+  "muted chartreuse" -> "plaid crimson" ["label"="1"]
+  "muted chartreuse" -> "vibrant red" ["label"="4"]
+  "muted chartreuse" -> "drab turquoise" ["label"="1"]
+  "muted chartreuse" -> "posh black" ["label"="5"]
+  "faded teal" -> "wavy gold" ["label"="1"]
+  "faded teal" -> "clear coral" ["label"="1"]
+  "faded teal" -> "pale crimson" ["label"="3"]
+  "dotted teal" -> "dull olive" ["label"="4"]
+  "dotted teal" -> "clear black" ["label"="4"]
+  "wavy beige" -> "mirrored coral" ["label"="1"]
+  "wavy beige" -> "bright plum" ["label"="1"]
+  "wavy beige" -> "dark lavender" ["label"="2"]
+  "light olive" -> "bright lavender" ["label"="3"]
+  "light olive" -> "wavy orange" ["label"="4"]
+  "light olive" -> "clear lavender" ["label"="3"]
+  "muted green" -> "plaid coral" ["label"="1"]
+  "drab plum" -> "dull white" ["label"="4"]
+  "drab plum" -> "clear crimson" ["label"="3"]
+  "drab plum" -> "wavy lavender" ["label"="2"]
+  "clear crimson" -> "dull blue" ["label"="4"]
+  "pale fuchsia" -> "mirrored indigo" ["label"="1"]
+  "pale fuchsia" -> "plaid aqua" ["label"="2"]
+  "pale fuchsia" -> "striped teal" ["label"="1"]
+  "pale fuchsia" -> "drab salmon" ["label"="4"]
+  "striped maroon" -> "drab tan" ["label"="5"]
+  "striped maroon" -> "pale black" ["label"="1"]
+  "drab lime" -> "plaid beige" ["label"="2"]
+  "mirrored olive" -> "dim blue" ["label"="2"]
+  "mirrored olive" -> "shiny gold" ["label"="2"]
+  "mirrored olive" -> "light lavender" ["label"="4"]
+  "dark purple" -> "dotted brown" ["label"="5"]
+  "dark purple" -> "bright olive" ["label"="1"]
+  "dark purple" -> "drab orange" ["label"="3"]
+  "dark purple" -> "mirrored olive" ["label"="1"]
+  "light lime" -> "light brown" ["label"="4"]
+  "light lime" -> "faded violet" ["label"="3"]
+  "light lime" -> "bright plum" ["label"="5"]
+  "faded tomato" -> "light turquoise" ["label"="4"]
+  "wavy gray" -> "wavy tomato" ["label"="3"]
+  "wavy gray" -> "dull gray" ["label"="4"]
+  "wavy gray" -> "shiny teal" ["label"="4"]
+  "wavy gray" -> "pale beige" ["label"="5"]
+  "wavy chartreuse" -> "bright lavender" ["label"="3"]
+  "dark white" -> "pale lime" ["label"="4"]
+  "dark white" -> "plaid beige" ["label"="4"]
+  "dark white" -> "dull fuchsia" ["label"="5"]
+  "dark white" -> "pale yellow" ["label"="1"]
+  "pale gold" -> "plaid blue" ["label"="3"]
+  "pale gold" -> "muted plum" ["label"="3"]
+  "pale gold" -> "wavy tomato" ["label"="4"]
+  "pale gold" -> "clear lavender" ["label"="3"]
+  "mirrored gray" -> "dark chartreuse" ["label"="5"]
+  "mirrored blue" -> "dotted brown" ["label"="5"]
+  "mirrored blue" -> "clear chartreuse" ["label"="4"]
+  "mirrored blue" -> "bright gold" ["label"="2"]
+  "mirrored blue" -> "striped lavender" ["label"="3"]
+  "dull fuchsia" -> "bright brown" ["label"="3"]
+  "dull fuchsia" -> "striped olive" ["label"="3"]
+  "dull fuchsia" -> "faded white" ["label"="2"]
+  "bright red" -> "bright bronze" ["label"="5"]
+  "bright red" -> "dull white" ["label"="3"]
+  "bright red" -> "dim plum" ["label"="3"]
+  "bright red" -> "light tan" ["label"="3"]
+  "posh blue" -> "muted chartreuse" ["label"="2"]
+  "posh blue" -> "vibrant coral" ["label"="3"]
+  "bright plum" -> "faded turquoise" ["label"="2"]
+  "plaid crimson" -> "posh yellow" ["label"="1"]
+  "plaid crimson" -> "shiny cyan" ["label"="5"]
+  "plaid gray" -> "light indigo" ["label"="1"]
+  "plaid gray" -> "muted indigo" ["label"="5"]
+  "posh teal" -> "muted tan" ["label"="2"]
+  "pale plum" -> "dull indigo" ["label"="2"]
+  "pale plum" -> "dotted plum" ["label"="1"]
+  "pale plum" -> "bright yellow" ["label"="1"]
+  "muted gold" -> "shiny cyan" ["label"="1"]
+  "mirrored lavender" -> "faded chartreuse" ["label"="5"]
+  "drab lavender" -> "wavy beige" ["label"="5"]
+  "drab lavender" -> "bright gold" ["label"="4"]
+  "drab lavender" -> "wavy cyan" ["label"="3"]
+  "pale green" -> "faded white" ["label"="3"]
+  "pale green" -> "dotted lavender" ["label"="5"]
+  "bright lime" -> "shiny gold" ["label"="3"]
+  "bright lime" -> "plaid lavender" ["label"="4"]
+  "bright lime" -> "dull gold" ["label"="3"]
+  "wavy purple" -> "dim maroon" ["label"="2"]
+  "wavy purple" -> "vibrant coral" ["label"="1"]
+  "wavy purple" -> "posh teal" ["label"="4"]
+  "wavy purple" -> "dark teal" ["label"="2"]
+  "posh orange" -> "bright beige" ["label"="2"]
+  "posh orange" -> "vibrant chartreuse" ["label"="5"]
+  "posh orange" -> "drab green" ["label"="3"]
+  "striped bronze" -> "plaid chartreuse" ["label"="1"]
+  "vibrant red" -> "wavy red" ["label"="2"]
+  "vibrant red" -> "dotted chartreuse" ["label"="4"]
+  "vibrant red" -> "dim coral" ["label"="5"]
+  "dotted coral" -> "plaid cyan" ["label"="2"]
+  "dotted coral" -> "light crimson" ["label"="3"]
+  "dotted coral" -> "light white" ["label"="1"]
+  "dotted coral" -> "drab aqua" ["label"="3"]
+  "wavy crimson" -> "pale lavender" ["label"="4"]
+  "wavy crimson" -> "mirrored tan" ["label"="2"]
+  "wavy crimson" -> "plaid beige" ["label"="5"]
+  "shiny coral" -> "plaid chartreuse" ["label"="3"]
+  "shiny coral" -> "pale lavender" ["label"="1"]
+  "wavy lime" -> "dim violet" ["label"="3"]
+  "wavy lime" -> "posh violet" ["label"="5"]
+  "wavy lime" -> "light white" ["label"="1"]
+  "wavy lime" -> "posh olive" ["label"="2"]
+  "striped plum" -> "light turquoise" ["label"="4"]
+  "posh cyan" -> "shiny crimson" ["label"="1"]
+  "drab red" -> "light lime" ["label"="1"]
+  "drab red" -> "mirrored black" ["label"="1"]
+  "drab red" -> "pale purple" ["label"="4"]
+  "drab red" -> "drab purple" ["label"="2"]
+  "dotted silver" -> "dotted red" ["label"="2"]
+  "dotted tomato" -> "dotted olive" ["label"="5"]
+  "posh turquoise" -> "light lime" ["label"="3"]
+  "posh turquoise" -> "wavy tomato" ["label"="4"]
+  "posh turquoise" -> "vibrant blue" ["label"="3"]
+  "posh turquoise" -> "posh fuchsia" ["label"="3"]
+  "mirrored aqua" -> "bright brown" ["label"="5"]
+  "mirrored aqua" -> "mirrored tomato" ["label"="3"]
+  "mirrored aqua" -> "bright bronze" ["label"="3"]
+  "mirrored aqua" -> "shiny magenta" ["label"="1"]
+  "wavy silver" -> "clear orange" ["label"="3"]
+  "wavy silver" -> "clear lavender" ["label"="2"]
+  "dark salmon" -> "pale plum" ["label"="5"]
+  "dark salmon" -> "striped lime" ["label"="3"]
+  "dark salmon" -> "dotted gray" ["label"="4"]
+  "striped turquoise" -> "drab teal" ["label"="4"]
+  "striped turquoise" -> "striped bronze" ["label"="5"]
+  "vibrant bronze" -> "dark yellow" ["label"="5"]
+  "wavy olive" -> "vibrant maroon" ["label"="4"]
+  "wavy olive" -> "drab salmon" ["label"="1"]
+  "light brown" -> "dotted chartreuse" ["label"="4"]
+  "dull yellow" -> "bright turquoise" ["label"="5"]
+  "dull yellow" -> "posh plum" ["label"="3"]
+  "dull yellow" -> "pale white" ["label"="1"]
+  "vibrant gold" -> "dotted chartreuse" ["label"="2"]
+  "vibrant gold" -> "pale brown" ["label"="5"]
+  "vibrant gold" -> "mirrored brown" ["label"="1"]
+  "vibrant gold" -> "plaid lavender" ["label"="5"]
+  "plaid teal" -> "dark turquoise" ["label"="4"]
+  "plaid teal" -> "posh indigo" ["label"="4"]
+  "plaid teal" -> "mirrored tan" ["label"="1"]
+  "faded green" -> "drab lavender" ["label"="4"]
+  "dark blue" -> "striped lime" ["label"="2"]
+  "faded plum" -> "faded black" ["label"="1"]
+  "faded plum" -> "muted green" ["label"="1"]
+  "light bronze" -> "dim maroon" ["label"="4"]
+  "light bronze" -> "shiny crimson" ["label"="3"]
+  "striped crimson" -> "dull plum" ["label"="1"]
+  "striped crimson" -> "shiny fuchsia" ["label"="2"]
+  "striped crimson" -> "dim maroon" ["label"="4"]
+  "striped crimson" -> "bright yellow" ["label"="3"]
+  "bright turquoise" -> "bright yellow" ["label"="2"]
+  "bright turquoise" -> "posh violet" ["label"="2"]
+  "bright turquoise" -> "bright plum" ["label"="4"]
+  "dotted purple" -> "faded gold" ["label"="1"]
+  "dim lavender" -> "light magenta" ["label"="4"]
+  "dim lavender" -> "shiny fuchsia" ["label"="4"]
+  "dim lavender" -> "wavy chartreuse" ["label"="5"]
+  "dim lavender" -> "faded chartreuse" ["label"="1"]
+  "light tomato" -> "dull bronze" ["label"="2"]
+  "light tomato" -> "pale brown" ["label"="1"]
+  "light tomato" -> "bright violet" ["label"="4"]
+  "clear white" -> "shiny coral" ["label"="4"]
+  "clear white" -> "striped gold" ["label"="5"]
+  "clear white" -> "mirrored magenta" ["label"="2"]
+  "muted cyan" -> "dotted black" ["label"="3"]
+  "muted cyan" -> "faded violet" ["label"="1"]
+  "muted cyan" -> "bright violet" ["label"="5"]
+  "bright bronze" -> "faded cyan" ["label"="3"]
+  "bright bronze" -> "dim blue" ["label"="3"]
+  "bright bronze" -> "faded gold" ["label"="2"]
+  "bright bronze" -> "bright tan" ["label"="2"]
+  "faded chartreuse" -> "dotted chartreuse" ["label"="1"]
+  "faded chartreuse" -> "wavy orange" ["label"="3"]
+  "mirrored brown" -> "dull bronze" ["label"="3"]
+  "mirrored brown" -> "bright lavender" ["label"="3"]
+  "wavy white" -> "pale olive" ["label"="2"]
+  "vibrant turquoise" -> "light tan" ["label"="2"]
+  "vibrant turquoise" -> "wavy salmon" ["label"="4"]
+  "vibrant turquoise" -> "dark tan" ["label"="1"]
+  "vibrant turquoise" -> "dull tan" ["label"="1"]
+  "faded blue" -> "plaid salmon" ["label"="3"]
+  "faded blue" -> "clear cyan" ["label"="3"]
+  "faded blue" -> "wavy aqua" ["label"="1"]
+  "faded blue" -> "mirrored teal" ["label"="4"]
+  "posh maroon" -> "dark magenta" ["label"="3"]
+  "posh maroon" -> "pale gray" ["label"="3"]
+  "shiny brown" -> "dotted bronze" ["label"="1"]
+  "shiny brown" -> "shiny fuchsia" ["label"="4"]
+  "shiny brown" -> "drab fuchsia" ["label"="4"]
+  "shiny brown" -> "dark lavender" ["label"="4"]
+  "dotted indigo" -> "muted crimson" ["label"="1"]
+  "dotted indigo" -> "wavy purple" ["label"="5"]
+  "dotted indigo" -> "dotted crimson" ["label"="3"]
+  "dotted indigo" -> "dotted chartreuse" ["label"="4"]
+  "posh fuchsia" -> "clear gold" ["label"="1"]
+  "posh fuchsia" -> "muted tomato" ["label"="5"]
+  "posh fuchsia" -> "muted white" ["label"="4"]
+  "posh fuchsia" -> "dark brown" ["label"="1"]
+  "bright teal" -> "dark green" ["label"="3"]
+  "bright teal" -> "dull white" ["label"="2"]
+  "drab coral" -> "dull orange" ["label"="3"]
+  "light tan" -> "vibrant red" ["label"="2"]
+  "faded aqua" -> "striped orange" ["label"="4"]
+  "faded aqua" -> "striped aqua" ["label"="3"]
+  "pale magenta" -> "pale violet" ["label"="5"]
+  "pale magenta" -> "dark blue" ["label"="1"]
+  "dotted red" -> "light violet" ["label"="5"]
+  "dotted red" -> "plaid chartreuse" ["label"="4"]
+  "plaid fuchsia" -> "posh lime" ["label"="1"]
+  "plaid plum" -> "plaid lavender" ["label"="1"]
+  "plaid plum" -> "wavy purple" ["label"="3"]
+  "dim plum" -> "wavy tomato" ["label"="2"]
+  "drab yellow" -> "dotted purple" ["label"="5"]
+  "clear lavender" -> "bright violet" ["label"="1"]
+  "clear lavender" -> "wavy cyan" ["label"="4"]
+  "clear lavender" -> "dim blue" ["label"="2"]
+  "clear lavender" -> "posh violet" ["label"="5"]
+  "wavy bronze" -> "dark coral" ["label"="1"]
+  "light blue" -> "shiny teal" ["label"="2"]
+  "light blue" -> "striped orange" ["label"="5"]
+  "light blue" -> "shiny gray" ["label"="5"]
+  "mirrored red" -> "dotted violet" ["label"="1"]
+  "mirrored red" -> "bright plum" ["label"="5"]
+  "mirrored red" -> "pale violet" ["label"="2"]
+  "mirrored red" -> "pale plum" ["label"="4"]
+  "faded indigo" -> "dim maroon" ["label"="3"]
+  "faded indigo" -> "mirrored violet" ["label"="3"]
+  "dark bronze" -> "light tomato" ["label"="2"]
+  "dark bronze" -> "vibrant gold" ["label"="1"]
+  "dark bronze" -> "posh yellow" ["label"="3"]
+  "dark bronze" -> "light lavender" ["label"="5"]
+  "muted blue" -> "mirrored turquoise" ["label"="1"]
+  "muted blue" -> "bright lavender" ["label"="4"]
+  "muted blue" -> "dull magenta" ["label"="4"]
+  "pale aqua" -> "shiny gold" ["label"="3"]
+  "pale aqua" -> "drab silver" ["label"="2"]
+  "pale aqua" -> "drab salmon" ["label"="3"]
+  "pale salmon" -> "wavy orange" ["label"="5"]
+  "pale salmon" -> "dotted gold" ["label"="4"]
+  "pale salmon" -> "posh brown" ["label"="4"]
+  "plaid cyan" -> "posh lime" ["label"="5"]
+  "plaid cyan" -> "wavy white" ["label"="2"]
+  "plaid cyan" -> "posh crimson" ["label"="3"]
+  "plaid orange" -> "muted orange" ["label"="2"]
+  "wavy black" -> "faded violet" ["label"="1"]
+  "wavy black" -> "plaid purple" ["label"="1"]
+  "wavy black" -> "dim coral" ["label"="5"]
+  "wavy black" -> "mirrored plum" ["label"="2"]
+  "faded crimson" -> "vibrant black" ["label"="4"]
+  "plaid tan" -> "vibrant bronze" ["label"="1"]
+  "pale cyan" -> "pale chartreuse" ["label"="2"]
+  "pale cyan" -> "light brown" ["label"="4"]
+  "pale cyan" -> "plaid beige" ["label"="1"]
+  "pale cyan" -> "light maroon" ["label"="3"]
+  "wavy maroon" -> "striped yellow" ["label"="3"]
+  "wavy maroon" -> "plaid red" ["label"="2"]
+  "wavy maroon" -> "pale teal" ["label"="4"]
+  "mirrored salmon" -> "dull magenta" ["label"="5"]
+  "mirrored salmon" -> "clear gray" ["label"="2"]
+  "mirrored salmon" -> "dim indigo" ["label"="1"]
+  "mirrored salmon" -> "light brown" ["label"="4"]
+  "striped lime" -> "dotted chartreuse" ["label"="2"]
+  "plaid beige" -> "dull gold" ["label"="3"]
+  "pale gray" -> "bright crimson" ["label"="3"]
+  "pale gray" -> "bright yellow" ["label"="1"]
+  "shiny magenta" -> "striped maroon" ["label"="2"]
+  "shiny magenta" -> "mirrored olive" ["label"="5"]
+  "shiny magenta" -> "drab lime" ["label"="2"]
+  "plaid silver" -> "dull beige" ["label"="2"]
+  "plaid silver" -> "bright tan" ["label"="5"]
+  "plaid silver" -> "posh tomato" ["label"="5"]
+  "striped salmon" -> "clear olive" ["label"="4"]
+  "striped salmon" -> "wavy orange" ["label"="4"]
+  "posh coral" -> "light blue" ["label"="2"]
+  "posh coral" -> "dotted purple" ["label"="2"]
+  "posh coral" -> "pale fuchsia" ["label"="1"]
+  "posh coral" -> "light cyan" ["label"="2"]
+  "posh beige" -> "faded lime" ["label"="1"]
+  "posh beige" -> "wavy white" ["label"="3"]
+  "posh beige" -> "mirrored gray" ["label"="2"]
+  "dim yellow" -> "dotted plum" ["label"="4"]
+  "dim yellow" -> "dim coral" ["label"="2"]
+  "dim yellow" -> "dotted red" ["label"="3"]
+  "muted silver" -> "light lime" ["label"="3"]
+  "muted silver" -> "wavy indigo" ["label"="4"]
+  "muted silver" -> "striped turquoise" ["label"="5"]
+  "muted silver" -> "clear blue" ["label"="5"]
+  "muted turquoise" -> "drab white" ["label"="1"]
+  "muted turquoise" -> "vibrant crimson" ["label"="4"]
+  "muted turquoise" -> "dark teal" ["label"="5"]
+  "muted turquoise" -> "drab bronze" ["label"="1"]
+  "dark silver" -> "posh plum" ["label"="3"]
+  "pale white" -> "muted indigo" ["label"="2"]
+  "bright gray" -> "bright silver" ["label"="3"]
+  "pale coral" -> "dim purple" ["label"="5"]
+  "pale coral" -> "faded silver" ["label"="3"]
+  "pale coral" -> "dim blue" ["label"="3"]
+  "pale coral" -> "dotted brown" ["label"="3"]
+  "muted orange" -> "dark coral" ["label"="5"]
+  "muted orange" -> "mirrored tomato" ["label"="3"]
+  "muted orange" -> "dotted green" ["label"="1"]
+  "wavy fuchsia" -> "muted fuchsia" ["label"="3"]
+  "wavy fuchsia" -> "drab blue" ["label"="3"]
+  "plaid tomato" -> "plaid plum" ["label"="4"]
+  "plaid tomato" -> "pale chartreuse" ["label"="2"]
+  "clear orange" -> "wavy chartreuse" ["label"="5"]
+  "clear orange" -> "dull aqua" ["label"="5"]
+  "clear orange" -> "faded bronze" ["label"="1"]
+  "clear orange" -> "faded chartreuse" ["label"="5"]
+  "bright purple" -> "muted indigo" ["label"="2"]
+  "bright purple" -> "pale maroon" ["label"="3"]
+  "bright purple" -> "dim coral" ["label"="4"]
+  "bright purple" -> "dark blue" ["label"="2"]
+  "dark crimson" -> "bright teal" ["label"="4"]
+  "dark crimson" -> "wavy gray" ["label"="2"]
+  "dark crimson" -> "bright chartreuse" ["label"="1"]
+  "pale indigo" -> "drab tan" ["label"="2"]
+  "pale indigo" -> "shiny indigo" ["label"="2"]
+  "faded orange" -> "dotted bronze" ["label"="3"]
+  "faded orange" -> "mirrored tan" ["label"="1"]
+  "dark red" -> "bright purple" ["label"="2"]
+  "dark red" -> "muted white" ["label"="2"]
+  "dark red" -> "drab cyan" ["label"="5"]
+  "dark red" -> "plaid olive" ["label"="5"]
+  "plaid salmon" -> "faded coral" ["label"="1"]
+  "plaid salmon" -> "clear lavender" ["label"="4"]
+  "plaid salmon" -> "wavy tan" ["label"="5"]
+  "muted crimson" -> "shiny fuchsia" ["label"="5"]
+  "faded magenta" -> "bright green" ["label"="1"]
+  "faded magenta" -> "pale lavender" ["label"="5"]
+  "faded magenta" -> "posh fuchsia" ["label"="4"]
+  "faded magenta" -> "pale teal" ["label"="2"]
+  "dull lime" -> "dotted olive" ["label"="1"]
+  "dull lime" -> "dim brown" ["label"="3"]
+  "posh violet" -> "plaid red" ["label"="2"]
+  "posh violet" -> "faded turquoise" ["label"="3"]
+  "posh violet" -> "faded white" ["label"="1"]
+  "dull gray" -> "bright lavender" ["label"="2"]
+  "dull gray" -> "pale plum" ["label"="3"]
+  "dull gray" -> "dull plum" ["label"="5"]
+  "faded gray" -> "mirrored magenta" ["label"="2"]
+  "striped chartreuse" -> "posh teal" ["label"="4"]
+  "striped chartreuse" -> "bright purple" ["label"="1"]
+  "striped chartreuse" -> "clear white" ["label"="1"]
+  "dim brown" -> "bright yellow" ["label"="1"]
+  "dim brown" -> "faded cyan" ["label"="3"]
+  "dim brown" -> "dotted chartreuse" ["label"="4"]
+  "muted tan" -> "bright violet" ["label"="5"]
+  "muted tan" -> "dotted red" ["label"="4"]
+  "muted tan" -> "dull beige" ["label"="5"]
+  "muted tan" -> "dim gray" ["label"="1"]
+  "light purple" -> "pale lavender" ["label"="1"]
+  "light purple" -> "shiny aqua" ["label"="2"]
+  "bright blue" -> "mirrored violet" ["label"="3"]
+  "bright blue" -> "pale gold" ["label"="3"]
+  "bright blue" -> "drab salmon" ["label"="4"]
+  "bright blue" -> "dull silver" ["label"="5"]
+  "posh crimson" -> "dark bronze" ["label"="3"]
+  "posh crimson" -> "pale salmon" ["label"="3"]
+  "posh crimson" -> "muted beige" ["label"="2"]
+  "posh crimson" -> "bright aqua" ["label"="2"]
+  "wavy gold" -> "posh teal" ["label"="3"]
+  "dull blue" -> "striped fuchsia" ["label"="3"]
+  "dull blue" -> "plaid aqua" ["label"="2"]
+  "dull blue" -> "mirrored lime" ["label"="1"]
+  "striped black" -> "light white" ["label"="2"]
+  "striped black" -> "posh lime" ["label"="4"]
+  "striped black" -> "posh chartreuse" ["label"="3"]
+  "wavy cyan" -> "posh yellow" ["label"="5"]
+  "pale lime" -> "shiny chartreuse" ["label"="5"]
+  "pale lime" -> "striped gold" ["label"="2"]
+  "faded red" -> "dull chartreuse" ["label"="5"]
+  "faded red" -> "plaid aqua" ["label"="2"]
+  "dark gray" -> "dull plum" ["label"="4"]
+  "dark gray" -> "muted tomato" ["label"="5"]
+  "dark gray" -> "drab brown" ["label"="3"]
+  "dotted lavender" -> "pale plum" ["label"="4"]
+  "dotted lavender" -> "bright coral" ["label"="2"]
+  "wavy salmon" -> "dull white" ["label"="5"]
+  "wavy salmon" -> "vibrant crimson" ["label"="5"]
+  "wavy salmon" -> "posh silver" ["label"="2"]
+  "wavy salmon" -> "dim purple" ["label"="1"]
+  "pale brown" -> "bright yellow" ["label"="2"]
+  "pale brown" -> "pale lavender" ["label"="4"]
+  "pale brown" -> "mirrored turquoise" ["label"="5"]
+  "pale brown" -> "drab turquoise" ["label"="1"]
+  "muted violet" -> "muted bronze" ["label"="4"]
+  "muted violet" -> "mirrored tan" ["label"="5"]
+  "muted violet" -> "bright yellow" ["label"="5"]
+  "light aqua" -> "posh olive" ["label"="4"]
+  "light aqua" -> "light tan" ["label"="4"]
+  "light aqua" -> "wavy tan" ["label"="4"]
+  "light aqua" -> "dotted blue" ["label"="2"]
+  "striped blue" -> "drab fuchsia" ["label"="5"]
+  "vibrant white" -> "muted tomato" ["label"="5"]
+  "clear salmon" -> "muted black" ["label"="4"]
+  "clear salmon" -> "bright white" ["label"="1"]
+  "clear salmon" -> "drab tomato" ["label"="1"]
+  "clear salmon" -> "shiny orange" ["label"="2"]
+  "vibrant magenta" -> "dark green" ["label"="2"]
+  "pale blue" -> "wavy black" ["label"="3"]
+  "pale blue" -> "dotted brown" ["label"="5"]
+  "pale blue" -> "drab chartreuse" ["label"="5"]
+  "pale blue" -> "bright gray" ["label"="5"]
+  "muted fuchsia" -> "pale olive" ["label"="2"]
+  "muted fuchsia" -> "light maroon" ["label"="1"]
+  "muted fuchsia" -> "plaid blue" ["label"="3"]
+  "muted fuchsia" -> "light blue" ["label"="1"]
+  "striped tan" -> "dotted chartreuse" ["label"="2"]
+  "dull green" -> "pale olive" ["label"="3"]
+  "dull green" -> "vibrant gold" ["label"="5"]
+  "dull green" -> "clear teal" ["label"="2"]
+  "dull green" -> "dotted plum" ["label"="5"]
+  "vibrant crimson" -> "shiny gray" ["label"="5"]
+  "vibrant crimson" -> "muted black" ["label"="2"]
+  "vibrant crimson" -> "posh brown" ["label"="2"]
+  "light gold" -> "light tan" ["label"="3"]
+  "light gold" -> "clear indigo" ["label"="4"]
+  "light gold" -> "shiny tan" ["label"="3"]
+  "drab gray" -> "shiny chartreuse" ["label"="3"]
+  "drab gray" -> "dim yellow" ["label"="1"]
+  "shiny chartreuse" -> "dim maroon" ["label"="5"]
+  "shiny chartreuse" -> "dull indigo" ["label"="5"]
+  "shiny chartreuse" -> "pale purple" ["label"="5"]
+  "shiny chartreuse" -> "vibrant gold" ["label"="3"]
+  "clear lime" -> "dull fuchsia" ["label"="3"]
+  "clear lime" -> "wavy red" ["label"="4"]
+  "plaid lavender" -> "drab turquoise" ["label"="1"]
+  "posh lavender" -> "wavy black" ["label"="1"]
+  "posh lavender" -> "wavy magenta" ["label"="2"]
+  "dotted crimson" -> "dim gray" ["label"="3"]
+  "dotted crimson" -> "mirrored lime" ["label"="1"]
+  "light indigo" -> "pale yellow" ["label"="4"]
+  "light indigo" -> "vibrant violet" ["label"="1"]
+  "light indigo" -> "dull cyan" ["label"="4"]
+  "light indigo" -> "dotted tomato" ["label"="5"]
+  "vibrant plum" -> "light bronze" ["label"="5"]
+  "vibrant plum" -> "plaid lavender" ["label"="3"]
+  "vibrant plum" -> "shiny coral" ["label"="1"]
+  "vibrant plum" -> "vibrant yellow" ["label"="2"]
+  "drab silver" -> "vibrant gold" ["label"="5"]
+  "drab silver" -> "pale gray" ["label"="5"]
+  "wavy aqua" -> "posh plum" ["label"="5"]
+  "wavy aqua" -> "striped bronze" ["label"="1"]
+  "wavy aqua" -> "dark magenta" ["label"="4"]
+  "wavy teal" -> "mirrored plum" ["label"="4"]
+  "wavy teal" -> "drab silver" ["label"="4"]
+  "wavy teal" -> "pale green" ["label"="3"]
+  "wavy teal" -> "mirrored lime" ["label"="1"]
+  "bright tan" -> "drab turquoise" ["label"="5"]
+  "bright tan" -> "dotted plum" ["label"="2"]
+  "plaid bronze" -> "dotted teal" ["label"="1"]
+  "plaid bronze" -> "faded white" ["label"="3"]
+  "plaid bronze" -> "shiny green" ["label"="2"]
+  "vibrant brown" -> "dull bronze" ["label"="4"]
+  "vibrant brown" -> "clear green" ["label"="1"]
+  "vibrant brown" -> "posh orange" ["label"="3"]
+  "vibrant brown" -> "mirrored silver" ["label"="3"]
+  "shiny aqua" -> "striped olive" ["label"="3"]
+  "shiny aqua" -> "shiny teal" ["label"="2"]
+  "shiny aqua" -> "pale teal" ["label"="5"]
+  "vibrant orange" -> "striped orange" ["label"="5"]
+  "vibrant orange" -> "plaid blue" ["label"="3"]
+  "light magenta" -> "drab olive" ["label"="4"]
+  "dull coral" -> "dull aqua" ["label"="2"]
+  "dull coral" -> "dim white" ["label"="5"]
+  "dull coral" -> "striped tan" ["label"="1"]
+  "mirrored lime" -> "dim maroon" ["label"="3"]
+  "mirrored lime" -> "light violet" ["label"="3"]
+  "mirrored lime" -> "mirrored turquoise" ["label"="2"]
+  "mirrored lime" -> "vibrant yellow" ["label"="3"]
+  "pale tomato" -> "bright maroon" ["label"="3"]
+  "pale tomato" -> "pale turquoise" ["label"="4"]
+  "pale tomato" -> "dark gold" ["label"="4"]
+  "pale tomato" -> "dull indigo" ["label"="3"]
+  "striped purple" -> "wavy beige" ["label"="4"]
+  "striped purple" -> "pale orange" ["label"="1"]
+  "striped purple" -> "pale brown" ["label"="1"]
+  "faded lavender" -> "wavy bronze" ["label"="4"]
+  "faded lavender" -> "dim yellow" ["label"="3"]
+  "dark olive" -> "dim indigo" ["label"="2"]
+  "dark olive" -> "dark brown" ["label"="1"]
+  "dark olive" -> "dark yellow" ["label"="5"]
+  "dark olive" -> "dull gray" ["label"="4"]
+  "dark lime" -> "shiny chartreuse" ["label"="1"]
+  "dark lime" -> "drab plum" ["label"="5"]
+  "dark lime" -> "dim yellow" ["label"="2"]
+  "pale maroon" -> "dim gray" ["label"="1"]
+  "dim silver" -> "muted brown" ["label"="2"]
+  "dim silver" -> "posh plum" ["label"="1"]
+  "vibrant black" -> "plaid black" ["label"="5"]
+  "drab purple" -> "striped tan" ["label"="1"]
+  "drab purple" -> "mirrored olive" ["label"="3"]
+  "drab purple" -> "mirrored turquoise" ["label"="4"]
+  "dim violet" -> "wavy blue" ["label"="5"]
+  "dim violet" -> "shiny coral" ["label"="4"]
+  "dim violet" -> "pale black" ["label"="4"]
+  "dim violet" -> "posh yellow" ["label"="3"]
+  "striped silver" -> "clear crimson" ["label"="1"]
+  "striped silver" -> "shiny salmon" ["label"="4"]
+  "muted plum" -> "muted indigo" ["label"="1"]
+  "muted plum" -> "plaid yellow" ["label"="5"]
+  "muted plum" -> "vibrant silver" ["label"="1"]
+  "muted plum" -> "drab turquoise" ["label"="1"]
+  "muted lavender" -> "dark yellow" ["label"="4"]
+  "muted lavender" -> "shiny teal" ["label"="4"]
+  "muted lavender" -> "faded aqua" ["label"="2"]
+  "muted lavender" -> "wavy cyan" ["label"="5"]
+  "dotted violet" -> "pale violet" ["label"="2"]
+  "dotted gold" -> "dull indigo" ["label"="3"]
+  "bright green" -> "dark gray" ["label"="1"]
+  "dark chartreuse" -> "mirrored turquoise" ["label"="1"]
+  "shiny silver" -> "drab tan" ["label"="5"]
+  "shiny silver" -> "bright cyan" ["label"="1"]
+  "dim turquoise" -> "wavy brown" ["label"="5"]
+  "dim turquoise" -> "mirrored yellow" ["label"="4"]
+  "clear bronze" -> "mirrored silver" ["label"="4"]
+  "clear bronze" -> "dim coral" ["label"="1"]
+  "clear bronze" -> "posh teal" ["label"="3"]
+  "shiny bronze" -> "mirrored crimson" ["label"="5"]
+  "shiny bronze" -> "pale brown" ["label"="3"]
+  "shiny bronze" -> "clear chartreuse" ["label"="4"]
+  "light salmon" -> "drab chartreuse" ["label"="2"]
+  "light salmon" -> "faded gray" ["label"="3"]
+  "light salmon" -> "pale gray" ["label"="3"]
+  "light salmon" -> "clear olive" ["label"="1"]
+  "striped cyan" -> "shiny tan" ["label"="1"]
+  "striped cyan" -> "dark cyan" ["label"="5"]
+  "striped cyan" -> "pale chartreuse" ["label"="2"]
+  "striped cyan" -> "muted gold" ["label"="3"]
+  "light violet" -> "mirrored turquoise" ["label"="3"]
+  "light violet" -> "dull bronze" ["label"="1"]
+  "mirrored green" -> "bright tan" ["label"="3"]
+  "mirrored green" -> "plaid white" ["label"="1"]
+  "mirrored green" -> "mirrored plum" ["label"="3"]
+  "muted red" -> "light violet" ["label"="3"]
+  "muted red" -> "dark cyan" ["label"="2"]
+  "posh bronze" -> "dotted salmon" ["label"="5"]
+  "posh bronze" -> "light aqua" ["label"="1"]
+  "light teal" -> "pale gray" ["label"="3"]
+  "bright indigo" -> "vibrant gold" ["label"="1"]
+  "bright indigo" -> "pale purple" ["label"="2"]
+  "dark green" -> "dull magenta" ["label"="1"]
+  "dark green" -> "light tomato" ["label"="3"]
+  "dark green" -> "pale olive" ["label"="1"]
+  "dark green" -> "pale brown" ["label"="5"]
+  "light yellow" -> "dotted magenta" ["label"="1"]
+  "posh magenta" -> "bright blue" ["label"="5"]
+  "posh magenta" -> "dull turquoise" ["label"="1"]
+  "bright tomato" -> "posh violet" ["label"="1"]
+  "bright tomato" -> "shiny aqua" ["label"="3"]
+  "plaid green" -> "light blue" ["label"="1"]
+  "plaid green" -> "mirrored silver" ["label"="1"]
+  "plaid green" -> "striped gold" ["label"="5"]
+  "faded olive" -> "pale blue" ["label"="5"]
+  "faded olive" -> "dim yellow" ["label"="3"]
+  "faded olive" -> "dotted gray" ["label"="1"]
+  "faded olive" -> "dim crimson" ["label"="2"]
+  "faded maroon" -> "dim red" ["label"="5"]
+  "pale black" -> "bright silver" ["label"="5"]
+  "pale black" -> "mirrored turquoise" ["label"="3"]
+  "dim fuchsia" -> "muted tomato" ["label"="3"]
+  "dim fuchsia" -> "striped lime" ["label"="2"]
+  "dim fuchsia" -> "clear white" ["label"="2"]
+  "dim fuchsia" -> "striped blue" ["label"="2"]
+  "dotted cyan" -> "bright white" ["label"="4"]
+  "muted indigo" -> "dull plum" ["label"="2"]
+  "plaid magenta" -> "light olive" ["label"="4"]
+  "plaid magenta" -> "faded salmon" ["label"="3"]
+  "plaid lime" -> "shiny black" ["label"="1"]
+  "plaid lime" -> "mirrored coral" ["label"="3"]
+  "dark violet" -> "dim gold" ["label"="1"]
+  "dark violet" -> "dim beige" ["label"="1"]
+  "dark violet" -> "dull orange" ["label"="5"]
+  "plaid turquoise" -> "dark bronze" ["label"="1"]
+  "plaid turquoise" -> "bright maroon" ["label"="4"]
+  "dotted aqua" -> "dull orange" ["label"="5"]
+  "muted white" -> "mirrored olive" ["label"="3"]
+  "shiny plum" -> "dotted chartreuse" ["label"="3"]
+  "shiny plum" -> "striped tomato" ["label"="1"]
+  "shiny plum" -> "clear indigo" ["label"="4"]
+  "vibrant aqua" -> "light lavender" ["label"="2"]
+  "vibrant aqua" -> "faded crimson" ["label"="1"]
+  "vibrant aqua" -> "dark green" ["label"="4"]
+  "vibrant aqua" -> "mirrored white" ["label"="3"]
+  "pale red" -> "mirrored olive" ["label"="4"]
+  "dim magenta" -> "muted tan" ["label"="5"]
+  "dim magenta" -> "striped olive" ["label"="4"]
+  "dim magenta" -> "vibrant gold" ["label"="5"]
+  "dim orange" -> "faded turquoise" ["label"="1"]
+  "plaid blue" -> "dull beige" ["label"="4"]
+  "plaid blue" -> "dull brown" ["label"="3"]
+  "plaid blue" -> "dotted crimson" ["label"="3"]
+  "wavy red" -> "dotted gray" ["label"="4"]
+  "wavy red" -> "pale purple" ["label"="2"]
+  "wavy red" -> "bright tan" ["label"="1"]
+  "dull beige" -> "dotted gray" ["label"="4"]
+  "dull beige" -> "pale lavender" ["label"="4"]
+  "dull beige" -> "light lavender" ["label"="5"]
+  "dull beige" -> "shiny coral" ["label"="3"]
+  "dim tan" -> "dim red" ["label"="2"]
+  "dim tan" -> "light violet" ["label"="4"]
+  "dim tan" -> "clear beige" ["label"="1"]
+  "shiny lavender" -> "plaid purple" ["label"="5"]
+  "shiny lavender" -> "vibrant crimson" ["label"="2"]
+  "shiny lavender" -> "dull olive" ["label"="4"]
+  "muted purple" -> "dim blue" ["label"="3"]
+  "muted purple" -> "wavy red" ["label"="3"]
+  "muted purple" -> "clear lavender" ["label"="1"]
+  "drab magenta" -> "dull fuchsia" ["label"="1"]
+  "drab tan" -> "dotted gray" ["label"="3"]
+  "drab tan" -> "faded black" ["label"="2"]
+  "drab tan" -> "dull brown" ["label"="1"]
+  "drab tan" -> "drab salmon" ["label"="2"]
+  "mirrored plum" -> "faded turquoise" ["label"="3"]
+  "muted black" -> "light lime" ["label"="1"]
+  "mirrored indigo" -> "dim chartreuse" ["label"="3"]
+  "mirrored indigo" -> "wavy violet" ["label"="1"]
+  "mirrored indigo" -> "dull green" ["label"="1"]
+  "dotted bronze" -> "striped orange" ["label"="1"]
+  "dotted bronze" -> "shiny cyan" ["label"="5"]
+  "dotted bronze" -> "muted tan" ["label"="2"]
+  "clear fuchsia" -> "dull brown" ["label"="1"]
+  "clear fuchsia" -> "posh red" ["label"="4"]
+  "clear fuchsia" -> "plaid purple" ["label"="3"]
+  "wavy blue" -> "muted yellow" ["label"="5"]
+  "mirrored crimson" -> "shiny teal" ["label"="2"]
+  "faded salmon" -> "pale salmon" ["label"="1"]
+  "faded salmon" -> "light teal" ["label"="1"]
+  "dim gold" -> "drab white" ["label"="3"]
+  "drab violet" -> "striped aqua" ["label"="4"]
+  "muted coral" -> "faded teal" ["label"="3"]
+  "muted coral" -> "pale crimson" ["label"="3"]
+  "muted coral" -> "posh fuchsia" ["label"="1"]
+  "bright maroon" -> "striped lime" ["label"="2"]
+  "pale teal" -> "wavy indigo" ["label"="4"]
+  "plaid aqua" -> "faded aqua" ["label"="5"]
+  "plaid aqua" -> "dotted fuchsia" ["label"="4"]
+  "wavy orange" -> "plaid purple" ["label"="3"]
+  "striped indigo" -> "striped purple" ["label"="3"]
+  "striped indigo" -> "shiny beige" ["label"="4"]
+  "wavy brown" -> "shiny green" ["label"="4"]
+  "striped orange" -> "shiny gold" ["label"="3"]
+  "striped orange" -> "bright crimson" ["label"="1"]
+  "striped orange" -> "vibrant gold" ["label"="3"]
+  "dull orange" -> "dim bronze" ["label"="1"]
+  "dull silver" -> "dull white" ["label"="5"]
+  "dull silver" -> "dull gold" ["label"="2"]
+  "dull silver" -> "shiny cyan" ["label"="4"]
+  "dull silver" -> "wavy gold" ["label"="4"]
+  "bright aqua" -> "light bronze" ["label"="2"]
+  "bright aqua" -> "bright violet" ["label"="3"]
+  "bright aqua" -> "posh fuchsia" ["label"="5"]
+  "clear chartreuse" -> "posh lime" ["label"="1"]
+  "shiny tomato" -> "bright coral" ["label"="1"]
+  "shiny tomato" -> "mirrored coral" ["label"="4"]
+  "dull magenta" -> "pale brown" ["label"="5"]
+  "mirrored maroon" -> "plaid chartreuse" ["label"="3"]
+  "mirrored maroon" -> "muted orange" ["label"="2"]
+  "mirrored maroon" -> "pale gray" ["label"="5"]
+  "mirrored maroon" -> "drab green" ["label"="4"]
+  "wavy tomato" -> "dull red" ["label"="5"]
+  "wavy tomato" -> "wavy cyan" ["label"="3"]
+  "wavy tomato" -> "dark gold" ["label"="4"]
+  "mirrored teal" -> "bright coral" ["label"="2"]
+  "mirrored teal" -> "dotted brown" ["label"="4"]
+  "mirrored teal" -> "vibrant white" ["label"="5"]
+  "mirrored teal" -> "clear magenta" ["label"="3"]
+  "striped yellow" -> "shiny green" ["label"="3"]
+  "striped yellow" -> "dark gold" ["label"="5"]
+  "striped yellow" -> "drab teal" ["label"="4"]
+  "striped yellow" -> "drab olive" ["label"="3"]
+  "clear purple" -> "dotted magenta" ["label"="1"]
+  "clear purple" -> "striped lavender" ["label"="2"]
+  "dotted lime" -> "dotted olive" ["label"="3"]
+  "dotted lime" -> "light tan" ["label"="4"]
+  "dotted lime" -> "bright bronze" ["label"="4"]
+  "dotted lime" -> "vibrant plum" ["label"="3"]
+  "faded tan" -> "vibrant red" ["label"="4"]
+  "faded tan" -> "drab bronze" ["label"="1"]
+  "faded tan" -> "mirrored plum" ["label"="5"]
+  "dotted chartreuse" -> "dotted red" ["label"="5"]
+  "dotted chartreuse" -> "light lavender" ["label"="5"]
+  "dotted chartreuse" -> "pale black" ["label"="4"]
+  "dotted chartreuse" -> "muted tomato" ["label"="3"]
+  "mirrored chartreuse" -> "plaid yellow" ["label"="5"]
+  "mirrored chartreuse" -> "posh tan" ["label"="5"]
+  "mirrored chartreuse" -> "vibrant silver" ["label"="4"]
+  "mirrored chartreuse" -> "drab green" ["label"="3"]
+  "dim purple" -> "muted indigo" ["label"="3"]
+  "clear beige" -> "plaid black" ["label"="4"]
+  "light plum" -> "plaid lavender" ["label"="1"]
+  "mirrored violet" -> "plaid beige" ["label"="5"]
+  "clear red" -> "dull magenta" ["label"="1"]
+  "clear red" -> "light cyan" ["label"="1"]
+  "clear gold" -> "bright tan" ["label"="2"]
+  "clear gold" -> "wavy teal" ["label"="5"]
+  "bright crimson" -> "light lavender" ["label"="4"]
+  "bright crimson" -> "dotted plum" ["label"="2"]
+  "clear cyan" -> "light violet" ["label"="2"]
+  "clear cyan" -> "drab salmon" ["label"="5"]
+  "clear cyan" -> "dark teal" ["label"="4"]
+  "plaid white" -> "shiny salmon" ["label"="1"]
+  "plaid white" -> "posh purple" ["label"="3"]
+  "posh green" -> "dull cyan" ["label"="5"]
+  "posh green" -> "muted tan" ["label"="4"]
+  "posh green" -> "faded silver" ["label"="1"]
+  "posh green" -> "vibrant black" ["label"="3"]
+  "posh olive" -> "dim salmon" ["label"="2"]
+  "posh olive" -> "faded black" ["label"="1"]
+  "posh olive" -> "light lime" ["label"="1"]
+  "light maroon" -> "clear blue" ["label"="5"]
+  "dim bronze" -> "faded black" ["label"="4"]
+  "dim bronze" -> "striped lavender" ["label"="1"]
+  "posh tomato" -> "drab fuchsia" ["label"="4"]
+  "posh tomato" -> "dark brown" ["label"="5"]
+  "drab gold" -> "plaid violet" ["label"="4"]
+  "drab gold" -> "muted gold" ["label"="5"]
+  "dim teal" -> "dull brown" ["label"="5"]
+  "vibrant tan" -> "bright tan" ["label"="4"]
+  "vibrant tan" -> "pale tomato" ["label"="1"]
+  "shiny gray" -> "pale magenta" ["label"="2"]
+  "light white" -> "vibrant gold" ["label"="5"]
+  "light white" -> "faded silver" ["label"="2"]
+  "light white" -> "bright beige" ["label"="1"]
+  "dull cyan" -> "muted lavender" ["label"="4"]
+  "dull cyan" -> "plaid tan" ["label"="2"]
+  "dull cyan" -> "dim blue" ["label"="2"]
+  "wavy yellow" -> "vibrant beige" ["label"="3"]
+  "wavy yellow" -> "muted crimson" ["label"="4"]
+  "wavy yellow" -> "bright white" ["label"="4"]
+  "wavy yellow" -> "pale maroon" ["label"="1"]
+  "shiny fuchsia" -> "dotted plum" ["label"="2"]
+  "pale orange" -> "pale silver" ["label"="4"]
+  "pale orange" -> "vibrant tomato" ["label"="4"]
+  "dotted plum" -> "dull bronze" ["label"="4"]
+  "dotted plum" -> "dim blue" ["label"="4"]
+  "striped gray" -> "pale green" ["label"="2"]
+  "striped gray" -> "light fuchsia" ["label"="4"]
+  "clear yellow" -> "pale fuchsia" ["label"="5"]
+  "clear yellow" -> "posh cyan" ["label"="2"]
+  "muted maroon" -> "dull salmon" ["label"="5"]
+  "muted maroon" -> "dim gray" ["label"="3"]
+  "dull olive" -> "vibrant yellow" ["label"="2"]
+  "dotted olive" -> "dotted fuchsia" ["label"="4"]
+  "vibrant gray" -> "posh black" ["label"="4"]
+  "mirrored fuchsia" -> "bright purple" ["label"="1"]
+  "mirrored fuchsia" -> "posh lime" ["label"="3"]
+  "mirrored fuchsia" -> "dim black" ["label"="5"]
+  "faded black" -> "shiny salmon" ["label"="4"]
+  "muted magenta" -> "mirrored beige" ["label"="2"]
+  "muted magenta" -> "wavy orange" ["label"="1"]
+  "muted magenta" -> "light salmon" ["label"="3"]
+  "dark turquoise" -> "dim brown" ["label"="5"]
+  "shiny violet" -> "plaid beige" ["label"="1"]
+  "shiny violet" -> "faded teal" ["label"="3"]
+  "shiny violet" -> "dotted tomato" ["label"="4"]
+  "shiny violet" -> "shiny orange" ["label"="1"]
+  "faded beige" -> "mirrored olive" ["label"="2"]
+  "faded beige" -> "dark chartreuse" ["label"="5"]
+  "clear aqua" -> "plaid turquoise" ["label"="2"]
+  "dark tan" -> "posh purple" ["label"="5"]
+  "dotted yellow" -> "bright crimson" ["label"="1"]
+  "dotted yellow" -> "dotted olive" ["label"="5"]
+  "light orange" -> "posh chartreuse" ["label"="4"]
+  "light orange" -> "shiny maroon" ["label"="3"]
+  "light orange" -> "dim teal" ["label"="4"]
+  "light orange" -> "drab chartreuse" ["label"="4"]
+  "drab green" -> "pale teal" ["label"="5"]
+  "pale tan" -> "bright tomato" ["label"="3"]
+  "pale tan" -> "pale maroon" ["label"="5"]
+  "pale tan" -> "wavy teal" ["label"="3"]
+  "bright lavender" -> "muted tomato" ["label"="1"]
+  "posh chartreuse" -> "dotted maroon" ["label"="5"]
+  "posh chartreuse" -> "shiny bronze" ["label"="5"]
+  "posh chartreuse" -> "shiny cyan" ["label"="1"]
+  "posh chartreuse" -> "pale aqua" ["label"="3"]
+  "drab tomato" -> "dim chartreuse" ["label"="5"]
+  "dark maroon" -> "striped orange" ["label"="5"]
+  "dark coral" -> "plaid chartreuse" ["label"="5"]
+  "plaid yellow" -> "shiny black" ["label"="3"]
+  "mirrored beige" -> "dotted gold" ["label"="5"]
+  "mirrored beige" -> "faded violet" ["label"="1"]
+  "mirrored beige" -> "striped gray" ["label"="4"]
+  "clear blue" -> "drab chartreuse" ["label"="1"]
+  "clear blue" -> "striped turquoise" ["label"="4"]
+  "clear blue" -> "plaid aqua" ["label"="1"]
+  "clear blue" -> "pale aqua" ["label"="5"]
+  "posh black" -> "wavy purple" ["label"="2"]
+  "shiny tan" -> "striped turquoise" ["label"="3"]
+  "shiny tan" -> "drab brown" ["label"="4"]
+  "shiny tan" -> "wavy tan" ["label"="2"]
+  "shiny tan" -> "light fuchsia" ["label"="3"]
+  "striped aqua" -> "dull gray" ["label"="1"]
+  "striped aqua" -> "dim blue" ["label"="5"]
+  "striped aqua" -> "wavy cyan" ["label"="5"]
+  "pale purple" -> "dotted fuchsia" ["label"="2"]
+  "vibrant coral" -> "pale lavender" ["label"="5"]
+  "vibrant coral" -> "plaid red" ["label"="5"]
+  "light chartreuse" -> "dotted silver" ["label"="1"]
+  "light chartreuse" -> "bright maroon" ["label"="3"]
+  "light chartreuse" -> "vibrant silver" ["label"="4"]
+  "light chartreuse" -> "bright coral" ["label"="5"]
+  "mirrored coral" -> "faded aqua" ["label"="4"]
+  "mirrored coral" -> "plaid plum" ["label"="2"]
+  "mirrored coral" -> "striped tan" ["label"="5"]
+  "mirrored coral" -> "wavy tomato" ["label"="5"]
+  "dark plum" -> "muted tan" ["label"="4"]
+  "shiny maroon" -> "striped olive" ["label"="3"]
+  "shiny maroon" -> "dull green" ["label"="5"]
+  "shiny maroon" -> "shiny cyan" ["label"="4"]
+  "vibrant tomato" -> "plaid blue" ["label"="3"]
+  "vibrant tomato" -> "clear fuchsia" ["label"="3"]
+  "vibrant tomato" -> "dark yellow" ["label"="5"]
+  "dull plum" -> "bright tan" ["label"="1"]
+  "dull plum" -> "light violet" ["label"="5"]
+  "dull plum" -> "shiny black" ["label"="5"]
+  "faded cyan" -> "light violet" ["label"="4"]
+  "faded cyan" -> "faded lime" ["label"="4"]
+  "faded cyan" -> "bright silver" ["label"="2"]
+  "faded cyan" -> "pale olive" ["label"="3"]
+  "dim green" -> "wavy bronze" ["label"="3"]
+  "dim green" -> "bright tan" ["label"="3"]
+  "dim green" -> "dotted magenta" ["label"="1"]
+  "striped beige" -> "vibrant teal" ["label"="3"]
+  "bright beige" -> "muted black" ["label"="3"]
+  "bright beige" -> "bright blue" ["label"="4"]
+  "vibrant lavender" -> "dotted violet" ["label"="4"]
+  "vibrant lavender" -> "striped lime" ["label"="3"]
+  "light crimson" -> "wavy chartreuse" ["label"="2"]
+  "muted aqua" -> "bright turquoise" ["label"="2"]
+  "shiny blue" -> "wavy indigo" ["label"="1"]
+  "shiny blue" -> "dark magenta" ["label"="4"]
+  "shiny blue" -> "light turquoise" ["label"="4"]
+  "faded white" -> "pale plum" ["label"="2"]
+  "dull salmon" -> "posh violet" ["label"="4"]
+  "dull salmon" -> "mirrored indigo" ["label"="3"]
+  "dull salmon" -> "plaid tomato" ["label"="3"]
+  "bright olive" -> "pale turquoise" ["label"="1"]
+  "bright olive" -> "vibrant gray" ["label"="2"]
+  "bright olive" -> "posh chartreuse" ["label"="5"]
+  "bright olive" -> "shiny lime" ["label"="4"]
+  "muted brown" -> "clear gold" ["label"="1"]
+  "shiny turquoise" -> "bright yellow" ["label"="2"]
+  "plaid indigo" -> "striped purple" ["label"="4"]
+  "plaid indigo" -> "clear brown" ["label"="3"]
+  "bright brown" -> "plaid aqua" ["label"="1"]
+  "bright brown" -> "light cyan" ["label"="4"]
+  "dark lavender" -> "dim coral" ["label"="2"]
+  "dim white" -> "drab brown" ["label"="5"]
+  "dim white" -> "plaid lavender" ["label"="2"]
+  "striped teal" -> "dark chartreuse" ["label"="4"]
+  "striped teal" -> "dim maroon" ["label"="1"]
+  "vibrant salmon" -> "dull yellow" ["label"="5"]
+  "vibrant salmon" -> "wavy tan" ["label"="5"]
+  "vibrant salmon" -> "light fuchsia" ["label"="3"]
+  "vibrant salmon" -> "drab tan" ["label"="1"]
+  "plaid gold"
+  "plaid purple"
+  "drab black"
+  "drab brown"
+  "clear violet"
+  "dotted beige"
+  "wavy plum"
+  "dull brown"
+  "pale violet"
+  "wavy indigo"
+  "drab blue"
+  "dotted brown"
+  "shiny white"
+  "dark gold"
+  "dull maroon"
+  "wavy turquoise"
+  "posh silver"
+  "pale turquoise"
+  "bright violet"
+  "striped white"
+  "faded gold"
+  "drab fuchsia"
+  "mirrored cyan"
+  "muted yellow"
+  "vibrant olive"
+  "shiny purple"
+  "dark black"
+  "striped olive"
+  "dull purple"
+  "dim aqua"
+  "dark beige"
+  "muted lime"
+  "shiny green"
+  "plaid olive"
+  "faded lime"
+  "bright cyan"
+  "light red"
+  "dim gray"
+  "pale crimson"
+  "mirrored magenta"
+  "striped green"
+  "dull bronze"
+  "mirrored white"
+  "posh purple"
+  "drab beige"
+  "dotted tan"
+  "clear brown"
+  "clear green"
+  "drab chartreuse"
+  "shiny lime"
+  "vibrant beige"
+  "vibrant silver"
+  "bright black"
+  "dim lime"
+  "vibrant indigo"
+  "light green"
+  "posh plum"
+  "clear magenta"
+  "dull chartreuse"
+  "vibrant cyan"
+  "vibrant violet"
+  "shiny crimson"
+  "dotted orange"
+  "dark brown"
+  "dim crimson"
+  "faded silver"
+  "clear coral"
+  "shiny red"
+  "vibrant yellow"
+  "bright chartreuse"
+  "dotted fuchsia"
+  "dotted green"
+  "dull teal"
+  "dark magenta"
+  "pale chartreuse"
+  "pale beige"
+  "mirrored purple"
+  "dull violet"
+  "shiny yellow"
+  "clear tomato"
+  "bright silver"
+  "striped fuchsia"
+  "light fuchsia"
+  "bright magenta"
+  "striped gold"
+  "striped tomato"
+  "plaid chartreuse"
+  "drab white"
+  "muted teal"
+  "plaid violet"
+  "dim tomato"
+  "clear plum"
+  "faded yellow"
+  "plaid maroon"
+  "dim olive"
+  "dull tomato"
+  "mirrored bronze"
+  "plaid red"
+  "plaid coral"
+  "faded violet"
+  "faded turquoise"
+  "clear tan"
+  "shiny indigo"
+  "bright orange"
+  "wavy green"
+  "clear maroon"
+  "wavy coral"
+  "pale yellow"
+  "vibrant green"
+  "mirrored orange"
+  "light cyan"
+  "muted beige"
+  "clear olive"
+  "dim red"
+  "vibrant maroon"
+  "dull gold"
+  "wavy violet"
+  "posh gray"
+  "dim indigo"
+  "striped lavender"
+  "dull white"
+  "pale olive"
+  "posh gold"
+  "vibrant chartreuse"
+  "dotted black"
+  "muted bronze"
+  "dim beige"
+  "mirrored tomato"
+  "striped magenta"
+  "dotted maroon"
+  "muted tomato"
+  "dotted gray"
+  "dark fuchsia"
+  "drab bronze"
+  "dull black"
+  "dull turquoise"
+  "posh white"
+  "bright coral"
+  "muted salmon"
+  "dark tomato"
+  "drab maroon"
+  "posh brown"
+  "vibrant teal"
+  "light beige"
+  "dull lavender"
+  "dark aqua"
+  "dark cyan"
+  "pale silver"
+  "striped brown"
+  "clear silver"
+  "mirrored gold"
+  "shiny salmon"
+  "drab cyan"
+  "bright fuchsia"
+  "dim blue"
+  "drab crimson"
+  "posh red"
+  "light lavender"
+  "dull crimson"
+  "vibrant purple"
+  "dark teal"
+  "shiny cyan"
+  "pale lavender"
+  "striped violet"
+  "plaid black"
+  "dark orange"
+  "faded coral"
+  "pale bronze"
+  "faded bronze"
+  "shiny orange"
+  "drab aqua"
+  "faded purple"
+  "clear indigo"
+  "light silver"
+  "wavy lavender"
+  "drab olive"
+  "mirrored yellow"
+  "striped red"
+  "dotted blue"
+  "striped coral"
+  "light turquoise"
+  "wavy magenta"
+  "mirrored tan"
+  "dark yellow"
+  "dotted salmon"
+  "clear black"
+  "clear turquoise"
+  "faded fuchsia"
+  "bright salmon"
+  "mirrored black"
+  "posh lime"
+  "shiny teal"
+  "plaid brown"
+  "dotted white"
+  "bright white"
+  "dim black"
+  "bright gold"
+  "dull red"
+  "muted gray"
+  "vibrant fuchsia"
+  "posh aqua"
+  "posh salmon"
+  "drab salmon"
+  "vibrant blue"
+  "muted olive"
+  "posh tan"
+  "dim salmon"
+  "mirrored silver"
+  "drab orange"
+  "shiny gold"
+  "drab teal"
+  "dim coral"
+  "dull aqua"
+  "dotted turquoise"
+  "wavy tan"
+  "dim chartreuse"
+  "clear teal"
+  "posh indigo"
+  "dotted magenta"
+  "dull tan"
+  "light black"
+  "shiny beige"
+  "shiny olive"
+  "faded brown"
+  "dark indigo"
+  "light gray"
+  "light coral"
+  "dim cyan"
+  "drab indigo"
+  "vibrant lime"
+  "clear gray"
+  "muted chartreuse"
+  "faded teal"
+  "dotted teal"
+  "wavy beige"
+  "light olive"
+  "muted green"
+  "drab plum"
+  "clear crimson"
+  "bright yellow"
+  "pale fuchsia"
+  "striped maroon"
+  "drab lime"
+  "mirrored olive"
+  "dark purple"
+  "light lime"
+  "faded tomato"
+  "wavy gray"
+  "wavy chartreuse"
+  "dark white"
+  "pale gold"
+  "mirrored gray"
+  "mirrored blue"
+  "dull fuchsia"
+  "bright red"
+  "posh blue"
+  "bright plum"
+  "plaid crimson"
+  "shiny black"
+  "mirrored turquoise"
+  "plaid gray"
+  "posh teal"
+  "pale plum"
+  "muted gold"
+  "mirrored lavender"
+  "drab lavender"
+  "pale green"
+  "bright lime"
+  "dim maroon"
+  "wavy purple"
+  "posh orange"
+  "striped bronze"
+  "vibrant red"
+  "dotted coral"
+  "wavy crimson"
+  "shiny coral"
+  "dull indigo"
+  "wavy lime"
+  "striped plum"
+  "posh cyan"
+  "drab red"
+  "dotted silver"
+  "dotted tomato"
+  "posh turquoise"
+  "mirrored aqua"
+  "wavy silver"
+  "dark salmon"
+  "striped turquoise"
+  "vibrant bronze"
+  "wavy olive"
+  "light brown"
+  "dull yellow"
+  "vibrant gold"
+  "plaid teal"
+  "faded green"
+  "dark blue"
+  "faded plum"
+  "light bronze"
+  "striped crimson"
+  "bright turquoise"
+  "dotted purple"
+  "dim lavender"
+  "light tomato"
+  "clear white"
+  "muted cyan"
+  "bright bronze"
+  "faded chartreuse"
+  "mirrored brown"
+  "wavy white"
+  "vibrant turquoise"
+  "faded blue"
+  "posh maroon"
+  "shiny brown"
+  "dotted indigo"
+  "posh fuchsia"
+  "bright teal"
+  "drab coral"
+  "light tan"
+  "faded aqua"
+  "pale magenta"
+  "dotted red"
+  "plaid fuchsia"
+  "plaid plum"
+  "dim plum"
+  "drab yellow"
+  "clear lavender"
+  "wavy bronze"
+  "light blue"
+  "mirrored red"
+  "faded indigo"
+  "dark bronze"
+  "muted blue"
+  "pale aqua"
+  "pale salmon"
+  "plaid cyan"
+  "plaid orange"
+  "wavy black"
+  "faded crimson"
+  "plaid tan"
+  "pale cyan"
+  "wavy maroon"
+  "mirrored salmon"
+  "striped lime"
+  "plaid beige"
+  "pale gray"
+  "shiny magenta"
+  "plaid silver"
+  "striped salmon"
+  "posh coral"
+  "posh beige"
+  "dim yellow"
+  "muted silver"
+  "muted turquoise"
+  "dark silver"
+  "pale white"
+  "bright gray"
+  "pale coral"
+  "muted orange"
+  "wavy fuchsia"
+  "plaid tomato"
+  "clear orange"
+  "bright purple"
+  "dark crimson"
+  "pale indigo"
+  "faded orange"
+  "dark red"
+  "plaid salmon"
+  "muted crimson"
+  "faded magenta"
+  "dull lime"
+  "posh violet"
+  "dull gray"
+  "faded gray"
+  "striped chartreuse"
+  "dim brown"
+  "muted tan"
+  "light purple"
+  "bright blue"
+  "posh crimson"
+  "wavy gold"
+  "dull blue"
+  "striped black"
+  "wavy cyan"
+  "pale lime"
+  "faded red"
+  "dark gray"
+  "dotted lavender"
+  "wavy salmon"
+  "pale brown"
+  "muted violet"
+  "light aqua"
+  "striped blue"
+  "vibrant white"
+  "clear salmon"
+  "vibrant magenta"
+  "pale blue"
+  "muted fuchsia"
+  "striped tan"
+  "dull green"
+  "vibrant crimson"
+  "light gold"
+  "drab gray"
+  "shiny chartreuse"
+  "clear lime"
+  "plaid lavender"
+  "posh lavender"
+  "dotted crimson"
+  "light indigo"
+  "vibrant plum"
+  "drab silver"
+  "wavy aqua"
+  "wavy teal"
+  "bright tan"
+  "plaid bronze"
+  "vibrant brown"
+  "shiny aqua"
+  "vibrant orange"
+  "light magenta"
+  "dull coral"
+  "mirrored lime"
+  "pale tomato"
+  "striped purple"
+  "faded lavender"
+  "dark olive"
+  "dark lime"
+  "pale maroon"
+  "dim silver"
+  "vibrant black"
+  "drab purple"
+  "dim violet"
+  "striped silver"
+  "muted plum"
+  "muted lavender"
+  "dotted violet"
+  "dotted gold"
+  "bright green"
+  "dark chartreuse"
+  "shiny silver"
+  "dim turquoise"
+  "clear bronze"
+  "shiny bronze"
+  "light salmon"
+  "striped cyan"
+  "light violet"
+  "mirrored green"
+  "muted red"
+  "posh bronze"
+  "light teal"
+  "bright indigo"
+  "dark green"
+  "light yellow"
+  "posh magenta"
+  "bright tomato"
+  "plaid green"
+  "faded olive"
+  "faded maroon"
+  "pale black"
+  "dim fuchsia"
+  "dotted cyan"
+  "muted indigo"
+  "plaid magenta"
+  "plaid lime"
+  "dark violet"
+  "plaid turquoise"
+  "dotted aqua"
+  "muted white"
+  "shiny plum"
+  "vibrant aqua"
+  "pale red"
+  "dim magenta"
+  "dim orange"
+  "plaid blue"
+  "posh yellow"
+  "wavy red"
+  "dull beige"
+  "dim tan"
+  "shiny lavender"
+  "muted purple"
+  "drab magenta"
+  "drab tan"
+  "mirrored plum"
+  "muted black"
+  "mirrored indigo"
+  "dotted bronze"
+  "clear fuchsia"
+  "wavy blue"
+  "mirrored crimson"
+  "faded salmon"
+  "dim gold"
+  "drab violet"
+  "muted coral"
+  "bright maroon"
+  "pale teal"
+  "plaid aqua"
+  "wavy orange"
+  "striped indigo"
+  "wavy brown"
+  "striped orange"
+  "dull orange"
+  "dull silver"
+  "bright aqua"
+  "clear chartreuse"
+  "shiny tomato"
+  "dull magenta"
+  "mirrored maroon"
+  "wavy tomato"
+  "mirrored teal"
+  "striped yellow"
+  "clear purple"
+  "dotted lime"
+  "faded tan"
+  "dotted chartreuse"
+  "mirrored chartreuse"
+  "dim purple"
+  "clear beige"
+  "light plum"
+  "mirrored violet"
+  "clear red"
+  "clear gold"
+  "bright crimson"
+  "clear cyan"
+  "plaid white"
+  "drab turquoise"
+  "posh green"
+  "posh olive"
+  "light maroon"
+  "dim bronze"
+  "posh tomato"
+  "drab gold"
+  "dim teal"
+  "vibrant tan"
+  "shiny gray"
+  "light white"
+  "dull cyan"
+  "wavy yellow"
+  "shiny fuchsia"
+  "pale orange"
+  "dotted plum"
+  "striped gray"
+  "clear yellow"
+  "muted maroon"
+  "dull olive"
+  "dotted olive"
+  "vibrant gray"
+  "mirrored fuchsia"
+  "faded black"
+  "muted magenta"
+  "dark turquoise"
+  "shiny violet"
+  "faded beige"
+  "clear aqua"
+  "dark tan"
+  "dotted yellow"
+  "light orange"
+  "drab green"
+  "pale tan"
+  "bright lavender"
+  "posh chartreuse"
+  "drab tomato"
+  "dark maroon"
+  "dark coral"
+  "plaid yellow"
+  "mirrored beige"
+  "clear blue"
+  "posh black"
+  "shiny tan"
+  "striped aqua"
+  "pale purple"
+  "vibrant coral"
+  "light chartreuse"
+  "mirrored coral"
+  "dark plum"
+  "shiny maroon"
+  "vibrant tomato"
+  "dull plum"
+  "faded cyan"
+  "dim green"
+  "striped beige"
+  "bright beige"
+  "vibrant lavender"
+  "light crimson"
+  "muted aqua"
+  "shiny blue"
+  "faded white"
+  "dull salmon"
+  "bright olive"
+  "muted brown"
+  "shiny turquoise"
+  "plaid indigo"
+  "bright brown"
+  "dark lavender"
+  "dim white"
+  "striped teal"
+  "vibrant salmon"
+}
