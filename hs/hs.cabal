@@ -4,7 +4,7 @@ cabal-version: 2.2
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: fa0095720f52f40e6e4ff52200d0be2ee459b060ecc44a768120474083fc8e04
+-- hash: 3aa3e1e3ac1128c357c08a0efc0202517ba7c05101864a98b5ff87a367561c03
 
 name:           hs
 version:        0.0.0
@@ -20,6 +20,8 @@ library
       Day4
       Day5
       Day6
+      Day7
+      Day8
   other-modules:
       Paths_hs
   hs-source-dirs:
@@ -27,6 +29,7 @@ library
   build-depends:
       base >=4.7 && <5
     , combinat
+    , containers
     , megaparsec
     , parser-combinators
     , text
@@ -44,6 +47,7 @@ test-suite hs-test
   build-depends:
       base >=4.7 && <5
     , combinat
+    , containers
     , hs
     , megaparsec
     , parser-combinators

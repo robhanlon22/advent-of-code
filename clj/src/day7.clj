@@ -4,8 +4,7 @@
     [clojure.string :as str]
     [instaparse.core :refer [defparser]]
     [loom.alg :as alg]
-    [loom.graph :as graph]
-    [loom.io :as lio]))
+    [loom.graph :as graph]))
 
 
 (def sample-input
@@ -79,7 +78,6 @@ contain = 'contain'")
 
 (defn part2
   [rules]
-  (spit "g.dot" (lio/dot-str (build-graph rules)))
   (search (build-graph rules) "shiny gold"))
 
 

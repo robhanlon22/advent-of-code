@@ -4,8 +4,9 @@ license:             WTFPL
 dependencies:
 - base >= 4.7 && < 5
 - combinat
-- megaparsec
 - text
+- containers
+- megaparsec
 - parser-combinators
 - unordered-containers
 
