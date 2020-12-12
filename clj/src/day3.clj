@@ -26,7 +26,7 @@
 (defn solution
   [input]
   (let [lines (str/split-lines input)
-        rows  (map #(cycle (seq (char-array %))) lines)]
+        rows  (map #(cycle (seq %)) lines)]
     (->> [[1 1] [1 3] [1 5] [1 7] [2 1]]
          (map (fn [[dr dc]] (descend rows dr dc)))
          (reduce *))))

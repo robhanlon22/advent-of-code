@@ -32,6 +32,13 @@ packages:
       sha256: 0cdd70d603c621e2b184ff7baa232af8a88a01745710b975b97df63e92c700dd
   original:
     hackage: unordered-containers-0.2.13.0
+- completed:
+    hackage: data-memocombinators-0.5.1@sha256:bf7f56cf280a6e6d7a0958a8f7c23b4c23f26e56e5ada320cdf5b0ec49634800,486
+    pantry-tree:
+      size: 251
+      sha256: 96848e2a3a704c4a46b473b603804309441bee3e35b79fd809b50fb47d1728b4
+  original:
+    hackage: data-memocombinators-0.5.1
 snapshots:
 - completed:
     size: 532835

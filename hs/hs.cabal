@@ -4,7 +4,7 @@ cabal-version: 2.2
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 3aa3e1e3ac1128c357c08a0efc0202517ba7c05101864a98b5ff87a367561c03
+-- hash: 2699b57141c00e9120b5db37452010d2d7f28e25e82196c266b1aa64c3d9523c
 
 name:           hs
 version:        0.0.0
@@ -15,6 +15,7 @@ build-type:     Simple
 library
   exposed-modules:
       Day1
+      Day10
       Day2
       Day3
       Day4
@@ -22,6 +23,7 @@ library
       Day6
       Day7
       Day8
+      Day9
   other-modules:
       Paths_hs
   hs-source-dirs:
@@ -30,8 +32,10 @@ library
       base >=4.7 && <5
     , combinat
     , containers
+    , data-memocombinators
     , megaparsec
     , parser-combinators
+    , split
     , text
     , unordered-containers
   default-language: Haskell2010
@@ -48,9 +52,11 @@ test-suite hs-test
       base >=4.7 && <5
     , combinat
     , containers
+    , data-memocombinators
     , hs
     , megaparsec
     , parser-combinators
+    , split
     , text
     , unordered-containers
   default-language: Haskell2010

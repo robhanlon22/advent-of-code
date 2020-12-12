@@ -9,6 +9,8 @@ dependencies:
 - megaparsec
 - parser-combinators
 - unordered-containers
+- split
+- data-memocombinators
 
 library:
   source-dirs: src
