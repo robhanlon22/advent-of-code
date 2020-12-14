@@ -47,6 +47,8 @@ extra-deps:
 - parser-combinators-1.2.1
 - unordered-containers-0.2.13.0
 - data-memocombinators-0.5.1
+- ghc-exactprint-0.6.3.3
+- prettyprinter-1.7.0
 
 # Override default flag values for local packages and extra-deps
 # flags: {}

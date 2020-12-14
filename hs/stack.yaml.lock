@@ -39,6 +39,20 @@ packages:
       sha256: 96848e2a3a704c4a46b473b603804309441bee3e35b79fd809b50fb47d1728b4
   original:
     hackage: data-memocombinators-0.5.1
+- completed:
+    hackage: ghc-exactprint-0.6.3.3@sha256:384e1066c192ed60dc12443b7aca75a4a4adcc47f829336c21ed007596fe683f,9446
+    pantry-tree:
+      size: 86248
+      sha256: c43b6e600634f5d5df2feb69e27e745fff25fe60503a30d3e5c86428882b686f
+  original:
+    hackage: ghc-exactprint-0.6.3.3
+- completed:
+    hackage: prettyprinter-1.7.0@sha256:6a9569e21fa61163a7f066d23d701e23e917893e8f39733d6e617ec72787ae5f,6007
+    pantry-tree:
+      size: 3194
+      sha256: d22f820a1f63497f7fd7e1f04b7d356d92de35582258f6ad55428c88b09e63ff
+  original:
+    hackage: prettyprinter-1.7.0
 snapshots:
 - completed:
     size: 532835

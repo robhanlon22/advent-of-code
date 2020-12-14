@@ -11,6 +11,11 @@ dependencies:
 - unordered-containers
 - split
 - data-memocombinators
+- vector
+- lens
+- mtl
+- monad-loops
+- prettyprinter
 
 library:
   source-dirs: src
