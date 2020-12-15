@@ -71,22 +71,16 @@ mem[8] = 0")
 
 (defn inflate
   [address mask]
-  (let [f         (fn f
-                    [[pair & pairs]]
-                    (if-let [[address-bit mask-bit] pair]
-                      (let [bits      (case mask-bit
-                                        \0 [address-bit]
-                                        \1 [\1]
-                                        \X [\0 \1])
-                            addresses (f pairs)]
-                        (mapcat (fn [bit]
-                                  (map (fn [address]
-                                         (cons bit address)) addresses))
-                                bits))
-                      [[]]))
-        addresses (f (map vector address mask))]
-    (map (fn [address]
-           (edn/read-string (apply str "2r" address))) addresses)))
+  (let [f (fn f
+            [[pair & pairs] current]
+            (if-let [[address-bit mask-bit] pair]
+              (let [bits (case mask-bit
+                           \0 [address-bit]
+                           \1 [\1]
+                           \X [\0 \1])]
+                (mapcat #(f pairs (conj current %)) bits))
+              [(edn/read-string (apply str "2r" current))]))]
+    (f (map vector address mask) [])))
 
 
 (defn run

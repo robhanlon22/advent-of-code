@@ -53,6 +53,13 @@ packages:
       sha256: d22f820a1f63497f7fd7e1f04b7d356d92de35582258f6ad55428c88b09e63ff
   original:
     hackage: prettyprinter-1.7.0
+- completed:
+    hackage: unliftio-core-0.1.2.0@sha256:7f9b48adef8e36da0202e6e70a733a5e210263ed4177c93e47a4b3f89694194b,1081
+    pantry-tree:
+      size: 328
+      sha256: 72be5813b35ba78db99459fb73a553a58b95a393005fdffb96eec3c1244f90c4
+  original:
+    hackage: unliftio-core-0.1.2.0
 snapshots:
 - completed:
     size: 532835

@@ -49,6 +49,7 @@ extra-deps:
 - data-memocombinators-0.5.1
 - ghc-exactprint-0.6.3.3
 - prettyprinter-1.7.0
+- unliftio-core-0.1.2.0
 
 # Override default flag values for local packages and extra-deps
 # flags: {}
