@@ -4,7 +4,7 @@ cabal-version: 2.2
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 6546ce27b5803b515aa1fe5a065226ee7099c456ffb7287cd4e09e86746d233a
+-- hash: f12bfe491dc1a822b2d554905a0991c94ec993b718270d4066f9a897c700f26e
 
 name:           hs
 version:        0.0.0
@@ -17,6 +17,7 @@ library
       Day1
       Day10
       Day11
+      Day11_2019
       Day12
       Day2
       Day2_2019
@@ -29,13 +30,16 @@ library
       Day7_2019
       Day8
       Day9
+      Day9_2019
       Intcode
   other-modules:
       Paths_hs
   hs-source-dirs:
       src
   build-depends:
-      base >=4.7 && <5
+      ansi-terminal
+    , array
+    , base >=4.7 && <5
     , combinat
     , containers
     , data-memocombinators
@@ -47,6 +51,7 @@ library
     , split
     , stm
     , text
+    , transformers
     , unliftio-core
     , unordered-containers
   default-language: Haskell2010
@@ -60,7 +65,9 @@ test-suite hs-test
       test
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
   build-depends:
-      base >=4.7 && <5
+      ansi-terminal
+    , array
+    , base >=4.7 && <5
     , combinat
     , containers
     , data-memocombinators
@@ -73,6 +80,7 @@ test-suite hs-test
     , split
     , stm
     , text
+    , transformers
     , unliftio-core
     , unordered-containers
   default-language: Haskell2010

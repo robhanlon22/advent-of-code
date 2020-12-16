@@ -16,6 +16,9 @@ dependencies:
 - dlist
 - unliftio-core
 - stm
+- transformers
+- array
+- ansi-terminal
 
 library:
   source-dirs: src

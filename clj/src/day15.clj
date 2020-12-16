@@ -11,14 +11,9 @@
 (def actual "1,0,18,10,19,6")
 
 
-(defn parse
-  [input]
-  (edn/read-string (format "[%s]" input)))
-
-
-(defn part1
+(defn solve
   [input n]
-  (let [numbers (parse input)
+  (let [numbers (edn/read-string (format "[%s]" input))
         spoken  (reduce-kv (fn [acc i v]
                              (let [turn (inc i)]
                                (assoc acc v [turn turn])))

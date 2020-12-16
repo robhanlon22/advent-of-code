@@ -5,7 +5,6 @@ import Control.Concurrent
 import Control.Concurrent.STM (atomically, newTQueueIO, readTQueue, writeTQueue)
 import Control.Monad (foldM, replicateM)
 import Data.List (permutations)
-import Debug.Trace
 import Intcode (readEval)
 
 actual :: IO String
