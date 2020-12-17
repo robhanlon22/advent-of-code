@@ -4,7 +4,7 @@ cabal-version: 2.2
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: f12bfe491dc1a822b2d554905a0991c94ec993b718270d4066f9a897c700f26e
+-- hash: f34331addd2c9a4de39edc4fafacf82f237d70026426d94d5e62a1d1b076e50c
 
 name:           hs
 version:        0.0.0
@@ -19,6 +19,7 @@ library
       Day11
       Day11_2019
       Day12
+      Day13_2019
       Day2
       Day2_2019
       Day3

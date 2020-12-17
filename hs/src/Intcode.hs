@@ -15,6 +15,7 @@ import Control.Concurrent.STM
     writeTQueue,
   )
 import Control.Monad.Except (MonadError (throwError), runExceptT, void)
+import Control.Monad.Fix
 import Control.Monad.IO.Class (MonadIO (..))
 import Control.Monad.Reader
   ( MonadReader (ask, local),
@@ -324,16 +325,17 @@ doJournal = do
     atomically $
       modifyTVar' j (p :)
 
-runLoop ::
+run ::
   ( MonadIO m,
     MonadReader System m,
     MonadError ExecutionEvent m
   ) =>
+  m Program ->
   m Program
-runLoop = do
+run loop = do
   doJournal
   program <- step
-  local (\system -> system {program = program}) runLoop
+  local (\system -> system {program = program}) loop
 
 eval ::
   TQueue Integer ->
@@ -342,7 +344,7 @@ eval ::
   IO (ExecutionEvent, [Program])
 eval input output mem = do
   system <- mkSystem input output mem
-  result <- runExceptT $ runReaderT runLoop system
+  result <- runExceptT $ runReaderT (fix run) system
   journal <- liftIO $ readTVarIO (journal system)
   return
     ( case result of
